@@ -1,4 +1,4 @@
-"id","name","region","sport","sport_id","region_id"
+id,name,region,sport,sport_id,region_id
 10465,World Cup Qualification - Europe,International,Basketball,2,490
 10470,Champions League Americas,International,Basketball,2,490
 12103,FIBA World Cup,International,Basketball,2,490
@@ -37,17 +37,17 @@
 10481,W League,Japan,Basketball,2,497
 10466,World Cup Qualification - Africa,International,Basketball,2,490
 10517,FBU Superleague,Ukraine,Basketball,2,540
-11688,"1 Division",Finland,Basketball,2,476
-10515,"1. Lig",Turkiye,Basketball,2,538
+11688,1 Division,Finland,Basketball,2,476
+10515,1. Lig,Turkiye,Basketball,2,538
 10440,BBL,Germany,Basketball,2,479
 11366,NBL1 Central - Women,Australia,Basketball,2,448
-10504,"1. A SKL",Slovenia,Basketball,2,530
+10504,1. A SKL,Slovenia,Basketball,2,530
 10452,Euroleague,International,Basketball,2,490
 10467,World Cup Qualification - Americas,International,Basketball,2,490
 10439,Coupe de France - Women,France,Basketball,2,477
 10433,Korisliiga - Women,Finland,Basketball,2,476
 10444,A1,Greece,Basketball,2,482
-10427,"1. Liga",Czech Republic,Basketball,2,469
+10427,1. Liga,Czech Republic,Basketball,2,469
 11498,Int. Friendly Games,International,Basketball,2,490
 10496,Liga Nationala,Romania,Basketball,2,522
 10499,KLS,Serbia,Basketball,2,528
@@ -88,7 +88,7 @@
 11506,Zweite Liga,Austria,Basketball,2,449
 10473,National League,Israel,Basketball,2,493
 10510,SBL - Women,Sweden,Basketball,2,533
-10491,"1 Liga",Poland,Basketball,2,518
+10491,1 Liga,Poland,Basketball,2,518
 10458,United League,International,Basketball,2,490
 10446,Elite League,Greece,Basketball,2,482
 11109,Big V - Women,Australia,Basketball,2,448
@@ -98,84 +98,3 @@
 10434,Pro A,France,Basketball,2,477
 10493,LPB,Portugal,Basketball,2,519
 10480,B2.League,Japan,Basketball,2,497
-10521,NBA All Star Game,USA,Basketball,2,543
-10461,Balkan League,International,Basketball,2,490
-10431,BBL Trophy,England,Basketball,2,474
-10403,LNB,Argentina,Basketball,2,447
-10468,World Cup Qualification - Asia & Oceania,International,Basketball,2,490
-10413,BNXT Belgian League,Belgium,Basketball,2,454
-10443,Pro A,Germany,Basketball,2,479
-10409,NBL1 - North,Australia,Basketball,2,448
-11373,Cup - Women,Turkiye,Basketball,2,538
-10927,Super 20,Argentina,Basketball,2,447
-10509,SBL,Sweden,Basketball,2,533
-10407,NBL1 - West,Australia,Basketball,2,448
-10430,BBL,England,Basketball,2,474
-10488,PBA - Governors Cup,Philippines,Basketball,2,517
-10489,PLK,Poland,Basketball,2,518
-10416,NBL,Bulgaria,Basketball,2,459
-10500,Cup,Serbia,Basketball,2,528
-11616,European Ch.ship Women,International,Basketball,2,490
-11031,LBF - Women,Brazil,Basketball,2,458
-10426,NBL,Czech Republic,Basketball,2,469
-10419,WCBA,China,Basketball,2,548
-11372,Serie A2 - LNP Cup,Italy,Basketball,2,494
-10506,Copa del Rey,Spain,Basketball,2,532
-10417,NBL,Canada,Basketball,2,462
-11371,Cup - Women,Italy,Basketball,2,494
-10464,Champions League,International,Basketball,2,490
-10438,LFB - Women,France,Basketball,2,477
-11589,Womens National Invitation Tournament,USA,Basketball,2,543
-10472,Super League,Israel,Basketball,2,493
-11853,U19 World Championship,International,Basketball,2,490
-10503,Cup,Slovakia,Basketball,2,529
-11764,Campeonato Nacional Liga Feminina,Portugal,Basketball,2,519
-10900,Cup,Slovenia,Basketball,2,530
-10497,LNB - Women,Romania,Basketball,2,522
-10460,ASEAN Basketball League,International,Basketball,2,490
-11842,LBL,Latvia,Basketball,2,553
-10514,Super Lig - Women,Turkiye,Basketball,2,538
-10414,"1st Division",Bosnia & Herzegovina,Basketball,2,456
-10421,P League,Chinese Taipei,Basketball,2,549
-11844,Superettan,Sweden,Basketball,2,533
-10456,European Championship Qualification - Women,International,Basketball,2,490
-11367,NBL1 West - Women,Australia,Basketball,2,448
-11319,Club Friendly Games,International,Basketball,2,490
-11370,Belgium Cup,Belgium,Basketball,2,454
-11687,CBA - All Star Game,China,Basketball,2,548
-12004,LNB,Dominican Republic,Basketball,2,594
-10507,LEB Oro,Spain,Basketball,2,532
-10508,Liga Femenina,Spain,Basketball,2,532
-11845,WNBA Preseason,USA,Basketball,2,543
-10520,WNBA,USA,Basketball,2,543
-10408,NBL1 - South,Australia,Basketball,2,448
-10429,Basketligaen,Denmark,Basketball,2,470
-11301,NBL1 East - Women,Australia,Basketball,2,448
-10457,Euroleague Women,International,Basketball,2,490
-10469,Estonian-Latvian League,International,Basketball,2,490
-10449,Urvalsdeild - Women,Iceland,Basketball,2,487
-10412,Superliga - Women,Austria,Basketball,2,449
-11488,NBB All Star,Brazil,Basketball,2,458
-10967,ABA Liga 2,International,Basketball,2,490
-11368,NBL1 North - Women,Australia,Basketball,2,448
-11599,Libobasquet,Bolivia,Basketball,2,455
-11201,Superior Nacional,Puerto Rico,Basketball,2,580
-10522,NBA G League,USA,Basketball,2,543
-10425,Division A,Cyprus,Basketball,2,468
-11318,National A League,Tunisia,Basketball,2,537
-10437,Coupe de France,France,Basketball,2,477
-10424,Croatia Cup,Croatia,Basketball,2,467
-10415,NBB,Brazil,Basketball,2,458
-10471,Super League,Iran,Basketball,2,491
-11560,Womens Basketball Invitational,USA,Basketball,2,543
-10411,Superliga,Austria,Basketball,2,449
-11210,Cup - Women,Romania,Basketball,2,522
-10511,LNA,Switzerland,Basketball,2,534
-10453,Eurocup,International,Basketball,2,490
-10441,"1. DBBL",Germany,Basketball,2,479
-10494,KBL,Republic of Korea,Basketball,2,521
-11507,Liga Mayor de Baloncesto,El Salvador,Basketball,2,473
-10448,NB I. A - Women,Hungary,Basketball,2,486
-10454,Liga ABA,International,Basketball,2,490
-10418,Liga Nacional,Chile,Basketball,2,463
-11509,Cup,Bulgaria,Basketball,2,459

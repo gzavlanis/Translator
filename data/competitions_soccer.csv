@@ -1,652 +1,654 @@
-"id","name","region","sport","sport_id","region_id"
-11539,A-Junioren-Bundesliga - Playoffs,Germany,Soccer,1,479
-10322,League Cup,Scotland,Soccer,1,527
-10010,OFB Cup,Austria,Soccer,1,449
-10332,PrvaLiga,Slovenia,Soccer,1,530
-10942,Ekstraliga - Women,Poland,Soccer,1,518
+id,name,region,sport,sport_id,region_id
+10243,J3 League,Japan,Soccer,1,497
 11597,Viareggio Cup,International,Soccer,1,490
-10167,National League,Gibraltar,Soccer,1,481
-10266,U21 KNVB - Divisie 1,Netherlands,Soccer,1,506
-11615,Segunda Division,Paraguay,Soccer,1,515
-10134,Championnat National U19,France,Soccer,1,477
-12006,CONCACAF Gold Cup,International,Soccer,1,490
-10402,Super League,Zambia,Soccer,1,547
-10187,"3. deild",Iceland,Soccer,1,487
-11765,NPL 2 - Victoria,Australia,Soccer,1,448
-10263,KNVB beker,Netherlands,Soccer,1,506
-11281,U17 Euro W Ch.ship - QF,International,Soccer,1,490
-10314,Saudi Prof. League,Saudi Arabia,Soccer,1,526
-10160,Bayernliga North,Germany,Soccer,1,479
-10191,European Championship Qualification,International,Soccer,1,490
-10053,Sul-Mato-Grossense,Brazil,Soccer,1,458
-10254,FA Trophy,Malta,Soccer,1,504
-10917,Primera B,Argentina,Soccer,1,447
-10294,Puchar Polski,Poland,Soccer,1,518
-10233,Serie C - Group A,Italy,Soccer,1,494
-11786,PFL - Center,Russia,Soccer,1,523
-10360,Tercera Federacion - Group 18,Spain,Soccer,1,532
-9992,Copa Constitucio,Andorra,Soccer,1,446
-12054,Supercoppa di Lega Pro,Italy,Soccer,1,494
-11344,Super Cup,Iceland,Soccer,1,487
-11286,PFL - South,Russia,Soccer,1,523
-10257,Liga MX - Clausura,Mexico,Soccer,1,505
-10162,Oberliga Niederrhein,Germany,Soccer,1,479
-10276,NM Cup,Norway,Soccer,1,511
-10094,"3rd Division",Denmark,Soccer,1,470
-11686,MLS Next Pro,USA,Soccer,1,543
-10312,Coppa Titano,San Marino,Soccer,1,525
-11075,Botola,Morocco,Soccer,1,576
-10004,Northern NSW NPL,Australia,Soccer,1,448
-10253,Challenge League,Malta,Soccer,1,504
-10020,"2nd Division",Bahrain,Soccer,1,451
-10032,Premier League,Botswana,Soccer,1,457
-10026,U21 Pro League,Belgium,Soccer,1,454
-11100,FA Cup,Ghana,Soccer,1,480
-10317,Premiership,Scotland,Soccer,1,527
-10018,Premier League,Bahrain,Soccer,1,451
-10093,DBU Pokalen,Denmark,Soccer,1,470
-10043,Paulista - Serie A2,Brazil,Soccer,1,458
-10038,Cearense,Brazil,Soccer,1,458
-10219,Premier League,Israel,Soccer,1,493
-11353,Super Liga,Moldova,Soccer,1,583
-10903,Supercopa do Brasil - Women,Brazil,Soccer,1,458
-10249,Promotion d'Honneur,Luxembourg,Soccer,1,502
-10107,National League,England,Soccer,1,474
-10296,III Liga - Group 1,Poland,Soccer,1,518
-10045,Paulista - Serie A3,Brazil,Soccer,1,458
-10173,Liga Nacional. Clausura,Guatemala,Soccer,1,483
-10136,Erovnuli Liga 2,Georgia,Soccer,1,478
-10394,Major League Soccer,USA,Soccer,1,543
-10148,Regionalliga West,Germany,Soccer,1,479
-10348,Tercera Federacion - Group 6,Spain,Soccer,1,532
-10046,Alagoano,Brazil,Soccer,1,458
-10077,Croatian Cup,Croatia,Soccer,1,467
-10246,Premier League,Kuwait,Soccer,1,500
-10327,Superliga,Slovakia,Soccer,1,529
-10291,Philippines Footb. League,Philippines,Soccer,1,517
-11077,III Liga - Group 3,Poland,Soccer,1,518
-10056,Amazonense,Brazil,Soccer,1,458
-10292,Ekstraklasa,Poland,Soccer,1,518
-9991,Second Divisio,Andorra,Soccer,1,446
-10230,Campionato Primavera 1,Italy,Soccer,1,494
-10082,"3rd Division",Cyprus,Soccer,1,468
-10203,CONCACAF Champions League,International,Soccer,1,490
-10041,Goiano,Brazil,Soccer,1,458
-10186,League Cup A - Women,Iceland,Soccer,1,487
-10898,Serie D - Girone G,Italy,Soccer,1,494
-11768,Copa Chile,Chile,Soccer,1,463
-10227,Serie D - Girone F,Italy,Soccer,1,494
-9986,Kategoria e Pare,Albania,Soccer,1,444
-10298,Liga Portugal 2,Portugal,Soccer,1,519
-10064,Second Prof. League,Bulgaria,Soccer,1,459
-11578,Federation Cup,Kuwait,Soccer,1,500
-10387,U19 Elit B,Turkiye,Soccer,1,538
-11290,Prva Liga,Serbia,Soccer,1,528
-10381,"1. Lig",Turkiye,Soccer,1,538
-9987,Kupa e Shqiperise,Albania,Soccer,1,444
-11609,Paranaense - 2. Divisao,Brazil,Soccer,1,458
-11225,Damallsvenskan,Sweden,Soccer,1,533
-11620,II Lyga,Lithuania,Soccer,1,550
-10356,Tercera Federacion - Group 14,Spain,Soccer,1,532
-11535,Mineiro - Modulo II,Brazil,Soccer,1,458
-10155,A-Junioren-Bundesliga S/S-W,Germany,Soccer,1,479
-11352,Liechtensteiner Cup,Liechtenstein,Soccer,1,585
-10099,Primera Division - Clausura,El Salvador,Soccer,1,473
-10142,Oberliga BW,Germany,Soccer,1,479
-10911,Serie D - Girone D,Italy,Soccer,1,494
-11408,Tasmania NPL,Australia,Soccer,1,448
-10248,Division Nationale,Luxembourg,Soccer,1,502
-11263,U20 Campeonato Brasileiro,Brazil,Soccer,1,458
-10146,Hessenliga,Germany,Soccer,1,479
-11108,K3 League,Republic of Korea,Soccer,1,521
-10176,Division 1,"Hong Kong, China",Soccer,1,485
-10345,Tercera Federacion - Group 3,Spain,Soccer,1,532
-10373,Schweizer Cup,Switzerland,Soccer,1,534
-10014,Regionalliga Tirol,Austria,Soccer,1,449
-11121,Coppa Italia Serie D,Italy,Soccer,1,494
-11336,Bulgarian Cup,Bulgaria,Soccer,1,459
-10127,Ykkonen,Finland,Soccer,1,476
-10324,Premier League 1 - Women,Scotland,Soccer,1,527
+10060,Campeonato Acreano,Brazil,Soccer,1,458
+10322,League Cup,Scotland,Soccer,1,527
+10168,Super League 1,Greece,Soccer,1,482
+10068,Primera B,Chile,Soccer,1,463
+9995,Copa Argentina,Argentina,Soccer,1,447
+11418,Vietnam Cup,Vietnam,Soccer,1,545
+10346,Tercera Federacion - Group 4,Spain,Soccer,1,532
+12100,U20 Gaucho - Serie A1,Brazil,Soccer,1,458
+12080,Supercup,Egypt,Soccer,1,472
 11071,First Division,Ireland,Soccer,1,492
-10237,Ligue 1,Ivory Coast,Soccer,1,495
-10182,League Cup A,Iceland,Soccer,1,487
-10305,K-League 1,Republic of Korea,Soccer,1,521
-10376,Premier League,Tanzania,Soccer,1,535
-11514,Federation Cup,Bahrain,Soccer,1,451
-10098,Egypt Cup,Egypt,Soccer,1,472
-10183,Besta deild - Women,Iceland,Soccer,1,487
-11769,U17 AFC Asian Cup,International,Soccer,1,490
+10371,Super League,Switzerland,Soccer,1,534
+10102,Championship,England,Soccer,1,474
+11004,Premier League,Senegal,Soccer,1,575
+10389,Premier League,Ukraine,Soccer,1,540
+10022,Super Cup,Belarus,Soccer,1,453
+10010,OFB Cup,Austria,Soccer,1,449
+10360,Tercera Federacion - Group 18,Spain,Soccer,1,532
+11460,Premier Division - Women,Ireland,Soccer,1,492
+10033,Carioca,Brazil,Soccer,1,458
+11103,Copa de SM La Reina,Spain,Soccer,1,532
+10366,Division 2 - Sodra Svealand,Sweden,Soccer,1,533
+11005,US Open Cup,USA,Soccer,1,543
+11323,Copa de la Liga,Argentina,Soccer,1,447
+10892,Copa Division Profesional,Bolivia,Soccer,1,455
+10205,Club Friendly Games,International,Soccer,1,490
+11290,Prva Liga,Serbia,Soccer,1,528
+10331,1. League Women,Slovakia,Soccer,1,529
+10210,U17 European Championship Qualification,International,Soccer,1,490
+10367,Svenska Cup,Sweden,Soccer,1,533
+10082,3rd Division,Cyprus,Soccer,1,468
+10396,Primera Division,Venezuela,Soccer,1,544
+10115,Isthmian League - Pr. Div,England,Soccer,1,474
+10328,2. Liga,Slovakia,Soccer,1,529
+10399,FAW Welsh Cup,Wales,Soccer,1,546
+10347,Tercera Federacion - Group 5,Spain,Soccer,1,532
+10035,Baiano,Brazil,Soccer,1,458
+10395,MLS Preseason,USA,Soccer,1,543
+10199,UEFA Champions League,International,Soccer,1,490
+12006,CONCACAF Gold Cup,International,Soccer,1,490
+10128,Liigacup,Finland,Soccer,1,476
+11308,Africa Cup of Nations - Qualification,International,Soccer,1,490
+10044,Copa do Nordeste,Brazil,Soccer,1,458
+11620,II Lyga,Lithuania,Soccer,1,550
+10304,Stars League,Qatar,Soccer,1,520
+10143,Oberliga NOFV North,Germany,Soccer,1,479
+10338,LaLiga 2,Spain,Soccer,1,532
+10078,Prva NL,Croatia,Soccer,1,467
+10219,Premier League,Israel,Soccer,1,493
+10214,U20 AFC Asian Cup,International,Soccer,1,490
+11348,U21 European Championship,International,Soccer,1,490
+11021,Qatar Cup,Qatar,Soccer,1,520
 11347,Copa Sudamericana,International,Soccer,1,490
-10307,Liga I,Romania,Soccer,1,522
-10336,National First Division,South Africa,Soccer,1,531
+10372,Challenge League,Switzerland,Soccer,1,534
+10112,The FA Women's Super League,England,Soccer,1,474
+10077,Croatian Cup,Croatia,Soccer,1,467
+10144,Oberliga Westfalen,Germany,Soccer,1,479
+10181,1. deild,Iceland,Soccer,1,487
+10262,Eerste Divisie,Netherlands,Soccer,1,506
+11704,Leagues Cup,International,Soccer,1,490
+10088,MSFL,Czech Republic,Soccer,1,469
+10257,Liga MX - Clausura,Mexico,Soccer,1,505
+10142,Oberliga BW,Germany,Soccer,1,479
+10091,1. Division,Denmark,Soccer,1,470
+10943,Football National League,Russia,Soccer,1,523
+11765,NPL 2 - Victoria,Australia,Soccer,1,448
+10296,III Liga - Group 1,Poland,Soccer,1,518
+9992,Copa Constitucio,Andorra,Soccer,1,446
+11364,Persha Liga,Ukraine,Soccer,1,540
+9994,Primera Nacional,Argentina,Soccer,1,447
+10193,African Nations Championship,International,Soccer,1,490
+10140,3. Liga,Germany,Soccer,1,479
 10325,Reserve League,Scotland,Soccer,1,527
-10170,Greece Cup,Greece,Soccer,1,482
-10137,Bundesliga,Germany,Soccer,1,479
+10174,Liga Nacional. Clausura,Honduras,Soccer,1,484
+10207,UEFA Europa Conference League,International,Soccer,1,490
+10203,CONCACAF Champions League,International,Soccer,1,490
+10306,K-League 2,Republic of Korea,Soccer,1,521
+11363,Ettan - Sodra,Sweden,Soccer,1,533
+10297,Liga Portugal,Portugal,Soccer,1,519
+10288,Liga Panamena de Futbol - Apertura,Panama,Soccer,1,514
+10079,1st Division,Cyprus,Soccer,1,468
+10270,Championship,Northern Ireland,Soccer,1,509
+10278,2nd Division Group 1,Norway,Soccer,1,511
+10054,Piauiense,Brazil,Soccer,1,458
+10220,Israel Cup,Israel,Soccer,1,493
+10287,West Bank League,Palestine,Soccer,1,513
+10374,Promotion League,Switzerland,Soccer,1,534
+11196,FA Cup,Malaysia,Soccer,1,503
+10369,Svenska Cup Women,Sweden,Soccer,1,533
+10111,FA Trophy,England,Soccer,1,474
+10206,Atlantic Cup,International,Soccer,1,490
+10034,Paulista - Serie A1,Brazil,Soccer,1,458
+10330,U19 1. Liga,Slovakia,Soccer,1,529
+10057,Campeonato Tocantinense,Brazil,Soccer,1,458
+10116,Premier League Cup,England,Soccer,1,474
+10315,Kings Cup,Saudi Arabia,Soccer,1,526
+11406,1 Lyga,Lithuania,Soccer,1,550
+10223,Serie A,Italy,Soccer,1,494
+10319,League 1,Scotland,Soccer,1,527
+9996,Primera Division - Women,Argentina,Soccer,1,447
+10905,Serie D - Girone B,Italy,Soccer,1,494
+10314,Saudi Prof. League,Saudi Arabia,Soccer,1,526
+11121,Coppa Italia Serie D,Italy,Soccer,1,494
+11609,Paranaense - 2. Divisao,Brazil,Soccer,1,458
+10311,Rwanda Premier League,Rwanda,Soccer,1,524
+10122,Premium Liiga,Estonia,Soccer,1,475
+10298,Liga Portugal 2,Portugal,Soccer,1,519
+10107,National League,England,Soccer,1,474
+11596,U21 UEFA European Championship - Qualification,International,Soccer,1,490
+10037,Gaucho,Brazil,Soccer,1,458
+10148,Regionalliga West,Germany,Soccer,1,479
+10334,Premier Soccer League,South Africa,Soccer,1,531
+10191,European Championship Qualification,International,Soccer,1,490
+11356,Division de Honor - Clausura,Paraguay,Soccer,1,515
+10913,Serie D - Girone I,Italy,Soccer,1,494
+10047,Paraibano,Brazil,Soccer,1,458
+10271,Irish Cup,Northern Ireland,Soccer,1,509
+10208,U20 CONMEBOL Ch.ship,International,Soccer,1,490
+11286,PFL - South,Russia,Soccer,1,523
+10153,A-Junioren-Bundesliga N/N-E,Germany,Soccer,1,479
+11273,USL League One,USA,Soccer,1,543
+11216,Cup - Women,Iceland,Soccer,1,487
 11420,WK-League,Republic of Korea,Soccer,1,521
+10237,Ligue 1,Ivory Coast,Soccer,1,495
+10049,Maranhense,Brazil,Soccer,1,458
+10897,Serie D - Girone A,Italy,Soccer,1,494
+11008,Morocco Cup,Morocco,Soccer,1,576
+10355,Tercera Federacion - Group 13,Spain,Soccer,1,532
+11042,Premier League,Kazakhstan,Soccer,1,552
+11700,Segunda Division,Peru,Soccer,1,516
+11423,USL League Two,USA,Soccer,1,543
+10279,3rd Division Group 1,Norway,Soccer,1,511
+10382,2. Lig,Turkiye,Soccer,1,538
+11769,U17 AFC Asian Cup,International,Soccer,1,490
+10046,Alagoano,Brazil,Soccer,1,458
+10067,Canadian Premier League,Canada,Soccer,1,462
+10024,Pro League,Belgium,Soccer,1,454
+11080,Botola 2,Morocco,Soccer,1,576
+10169,Super League 2,Greece,Soccer,1,482
+10092,2nd Division,Denmark,Soccer,1,470
+11225,Damallsvenskan,Sweden,Soccer,1,533
+10106,League Two,England,Soccer,1,474
+10160,Bayernliga North,Germany,Soccer,1,479
+10380,Super Lig,Turkiye,Soccer,1,538
+12005,U17 European Women's Championship,International,Soccer,1,490
+10004,Northern NSW NPL,Australia,Soccer,1,448
+11045,Copa do Brasil,Brazil,Soccer,1,458
+10025,Beker van Belgie,Belgium,Soccer,1,454
+10327,Superliga,Slovakia,Soccer,1,529
+11300,Ligue 2,Tunisia,Soccer,1,537
+11333,Prva Liga - Fed BiH,Bosnia & Herzegovina,Soccer,1,456
+10233,Serie C - Group A,Italy,Soccer,1,494
+10110,National League North,England,Soccer,1,474
+10921,Kansallinen Liiga - Women,Finland,Soccer,1,476
+10171,Super League - Women,Greece,Soccer,1,482
+11324,Torneo Federal A,Argentina,Soccer,1,447
+10268,NPFL,Nigeria,Soccer,1,508
+10899,Liga Femenina,Colombia,Soccer,1,464
+10365,Division 2 - Vastra Gotaland,Sweden,Soccer,1,533
+10354,Tercera Federacion - Group 12,Spain,Soccer,1,532
+11340,Premier League,Faroe Islands,Soccer,1,584
+11212,Superliga,Uzbekistan,Soccer,1,581
+10241,Super Cup,Japan,Soccer,1,497
+10246,Premier League,Kuwait,Soccer,1,500
+10230,Campionato Primavera 1,Italy,Soccer,1,494
+10386,U19 Elit A,Turkiye,Soccer,1,538
+10127,Ykkonen,Finland,Soccer,1,476
+11514,Federation Cup,Bahrain,Soccer,1,451
+10001,Queensland NPL,Australia,Soccer,1,448
+10368,Division 2 - Norra Gotaland,Sweden,Soccer,1,533
+9988,Ligue 1,Algeria,Soccer,1,445
+11209,Druga Liga Crne Gore,Montenegro,Soccer,1,577
+10195,Cyprus Women Cup,International,Soccer,1,490
+10324,Premier League 1 - Women,Scotland,Soccer,1,527
+10186,League Cup A - Women,Iceland,Soccer,1,487
+10183,Besta deild - Women,Iceland,Soccer,1,487
+10966,Tunisian Cup,Tunisia,Soccer,1,537
+11910,Cup Crne Gore,Montenegro,Soccer,1,577
+10373,Schweizer Cup,Switzerland,Soccer,1,534
+11461,Premier League - Women,Russia,Soccer,1,523
+11618,Pervaya Liga,Kazakhstan,Soccer,1,552
+11410,National League,New Zealand,Soccer,1,551
+10285,Omani League,Oman,Soccer,1,512
+10178,Magyar Kupa,Hungary,Soccer,1,486
+10911,Serie D - Girone D,Italy,Soccer,1,494
+11342,DFB-Pokal Junioren,Germany,Soccer,1,479
+11099,Premier League,Armenia,Soccer,1,578
+10133,Division 1 Women,France,Soccer,1,477
+10188,I-League,India,Soccer,1,488
+10103,FA Cup,England,Soccer,1,474
+10356,Tercera Federacion - Group 14,Spain,Soccer,1,532
+11136,III Liga - Group 2,Poland,Soccer,1,518
+11693,Turkiye Kupasi,Turkiye,Soccer,1,538
+11325,Primera D Metropolitana,Argentina,Soccer,1,447
+11989,LFF Cup,Lithuania,Soccer,1,550
+11012,CAF Champions League,International,Soccer,1,490
+11349,U19 European Championship - Women - Qualification,International,Soccer,1,490
+9998,Liga Profesional - Reserves,Argentina,Soccer,1,447
+10016,Premier League,Azerbaijan,Soccer,1,450
+11344,Super Cup,Iceland,Soccer,1,487
+10141,Regionalliga North,Germany,Soccer,1,479
+10326,Superliga,Serbia,Soccer,1,528
+10398,Cymru Premier,Wales,Soccer,1,546
+10095,LigaPro Primera A,Ecuador,Soccer,1,471
+10066,Elite One,Cameroon,Soccer,1,461
+11224,Prva Liga - Rep of Srpska,Bosnia & Herzegovina,Soccer,1,456
+11351,Nadeshiko League - Div. 1 - Women,Japan,Soccer,1,497
+12164,Toulon Tournament,International,Soccer,1,490
+10229,Primavera Cup,Italy,Soccer,1,494
+10299,Taca de Portugal,Portugal,Soccer,1,519
+11608,Amapaense,Brazil,Soccer,1,458
+11334,Brasileiro Serie A,Brazil,Soccer,1,458
+10031,Bosnia & Herzegovina Cup,Bosnia & Herzegovina,Soccer,1,456
+10069,Primera Division,Chile,Soccer,1,463
+10272,1. MFL,North Macedonia,Soccer,1,510
+10118,Southern Football League - Premier Division South,England,Soccer,1,474
+11606,Macedonia Cup,North Macedonia,Soccer,1,510
+10376,Premier League,Tanzania,Soccer,1,535
+11215,Cup,Iceland,Soccer,1,487
+9999,A-League,Australia,Soccer,1,448
+10340,Segunda Federacion,Spain,Soccer,1,532
+10176,Division 1,"Hong Kong, China",Soccer,1,485
+11341,1st deild,Faroe Islands,Soccer,1,584
+10121,Premier League 2 - Div. 2,England,Soccer,1,474
+11077,III Liga - Group 3,Poland,Soccer,1,518
+10251,Super League,Malaysia,Soccer,1,503
+10381,1. Lig,Turkiye,Soccer,1,538
+10377,Thai League 1,Thailand,Soccer,1,536
+10256,Liga de Expansion MX - Clausura,Mexico,Soccer,1,505
+10350,Tercera Federacion - Group 8,Spain,Soccer,1,532
+10342,Primera Federacion,Spain,Soccer,1,532
+9986,Kategoria e Pare,Albania,Soccer,1,444
+10351,Tercera Federacion - Group 9,Spain,Soccer,1,532
+11416,Cup,Estonia,Soccer,1,475
+10218,FAI Presidents Cup,Ireland,Soccer,1,492
+11346,CONCACAF Nations League,International,Soccer,1,490
+10344,Tercera Federacion - Group 2,Spain,Soccer,1,532
+10244,Premier League,Kenya,Soccer,1,498
+11500,Brasileiro Serie D,Brazil,Soccer,1,458
+11299,First League,Armenia,Soccer,1,578
+10041,Goiano,Brazil,Soccer,1,458
+11024,CAF Confederations Cup,International,Soccer,1,490
+10400,Cymru Championship South,Wales,Soccer,1,546
+10032,Premier League,Botswana,Soccer,1,457
+11331,Vysshaya Liga,Belarus,Soccer,1,453
+11075,Botola,Morocco,Soccer,1,576
+11007,Algerian Cup,Algeria,Soccer,1,445
+10946,Gaza Strip Premier League,Palestine,Soccer,1,513
+11359,PFL - Ural-Povolzhye,Russia,Soccer,1,523
+10221,National League,Israel,Soccer,1,493
+11787,PFL - West,Russia,Soccer,1,523
+10259,Liga Premier Serie A - Clausura,Mexico,Soccer,1,505
+10939,Kakkonen - Group C,Finland,Soccer,1,476
+10048,Sergipano,Brazil,Soccer,1,458
+10394,Major League Soccer,USA,Soccer,1,543
+11741,Brasileiro Serie A2 - Women,Brazil,Soccer,1,458
+12009,Suomen Cup,Finland,Soccer,1,476
+10286,Sultan Cup,Oman,Soccer,1,512
+10332,PrvaLiga,Slovenia,Soccer,1,530
+11100,FA Cup,Ghana,Soccer,1,480
+10105,League One,England,Soccer,1,474
+10264,Eredivisie - Women,Netherlands,Soccer,1,506
+10238,Premier League,Jamaica,Soccer,1,496
+10391,Super Cup,United Arab Emirates,Soccer,1,541
+11310,FA Cup,Republic of Korea,Soccer,1,521
+10275,1st Division,Norway,Soccer,1,511
+10925,Super Cup,Lithuania,Soccer,1,550
+11338,Kvindeligaen - Women,Denmark,Soccer,1,470
+10114,Premier League 2,England,Soccer,1,474
+10139,DFB Pokal,Germany,Soccer,1,479
+10154,A-Junioren-Bundesliga West,Germany,Soccer,1,479
+10348,Tercera Federacion - Group 6,Spain,Soccer,1,532
+10198,Arnold Clark Cup - Women,International,Soccer,1,490
+10260,Liga Premier Serie B - Clausura,Mexico,Soccer,1,505
+11684,U23 Friendly Games,International,Soccer,1,490
+10253,Challenge League,Malta,Soccer,1,504
+10152,DFB Pokal Women,Germany,Soccer,1,479
+10175,Premier League,"Hong Kong, China",Soccer,1,485
+10265,Tweede Divisie,Netherlands,Soccer,1,506
+11603,Catarinense - Serie B,Brazil,Soccer,1,458
+11329,Regionalliga Salzburg,Austria,Soccer,1,449
+12002,Paulista - Women,Brazil,Soccer,1,458
+10146,Hessenliga,Germany,Soccer,1,479
+10383,3. Lig - Group 1,Turkiye,Soccer,1,538
+10151,Schleswig-Holstein-Liga,Germany,Soccer,1,479
+11992,U17 European Championship,International,Soccer,1,490
+11357,Stars Cup,Qatar,Soccer,1,520
+10100,Primera Division - Reserves - Clausura,El Salvador,Soccer,1,473
+11125,First League,Kosovo,Soccer,1,499
+10045,Paulista - Serie A3,Brazil,Soccer,1,458
+10294,Puchar Polski,Poland,Soccer,1,518
+11623,U20 Carioca - Serie A,Brazil,Soccer,1,458
+10201,AFC Champions League,International,Soccer,1,490
+10094,3rd Division,Denmark,Soccer,1,470
+10076,HNL,Croatia,Soccer,1,467
+10301,Campeonato Nacional - Women,Portugal,Soccer,1,519
+10231,Campionato Primavera 2,Italy,Soccer,1,494
+10303,Liga Portugal 3,Portugal,Soccer,1,519
+10228,Serie D - Girone H,Italy,Soccer,1,494
+11578,Federation Cup,Kuwait,Soccer,1,500
+11227,Slovenia Cup,Slovenia,Soccer,1,530
+10310,Premier League,Russia,Soccer,1,523
+10940,NB I - Women,Hungary,Soccer,1,486
+10936,FA Womens League Cup,England,Soccer,1,474
+10136,Erovnuli Liga 2,Georgia,Soccer,1,478
+12007,U23 Southeast Asian Games,International,Soccer,1,490
+10213,UEFA Youth League,International,Soccer,1,490
+10020,2nd Division,Bahrain,Soccer,1,451
+10080,Cyprus Cup,Cyprus,Soccer,1,468
+10119,FA Cup - Women,England,Soccer,1,474
+10043,Paulista - Serie A2,Brazil,Soccer,1,458
+10200,FIFA Club World Cup,International,Soccer,1,490
+11686,MLS Next Pro,USA,Soccer,1,543
+11070,Premier Division,Ireland,Soccer,1,492
+9985,Kategoria Superiore,Albania,Soccer,1,444
+10353,Tercera Federacion - Group 11,Spain,Soccer,1,532
+11263,U20 Campeonato Brasileiro,Brazil,Soccer,1,458
+10224,Serie B,Italy,Soccer,1,494
+11850,Regionalliga West,Austria,Soccer,1,449
+10358,Tercera Federacion - Group 16,Spain,Soccer,1,532
+10166,Premier League,Ghana,Soccer,1,480
+10308,Liga 2,Romania,Soccer,1,522
+10926,Community Shield,Singapore,Soccer,1,558
+11065,1. CFL,Montenegro,Soccer,1,577
+10070,Primera B,Colombia,Soccer,1,464
+10924,A Lyga,Lithuania,Soccer,1,550
+11411,NM Cup Women,Norway,Soccer,1,511
+10263,KNVB beker,Netherlands,Soccer,1,506
+11291,U21 Allsvenskan,Sweden,Soccer,1,533
+11786,PFL - Center,Russia,Soccer,1,523
+10289,Division de Honor - Apertura,Paraguay,Soccer,1,515
+10053,Sul-Mato-Grossense,Brazil,Soccer,1,458
+9991,Second Divisio,Andorra,Soccer,1,446
+11358,Romania Cup,Romania,Soccer,1,522
+11413,U17 CONMEBOL Championship,International,Soccer,1,490
+11326,Armenian Cup,Armenia,Soccer,1,578
+12003,OFC Champions League,International,Soccer,1,490
+11223,Premier League,Zanzibar,Soccer,1,582
+10261,Eredivisie,Netherlands,Soccer,1,506
+11617,Pervaya Liga,Belarus,Soccer,1,453
+11614,Indian Super Cup,India,Soccer,1,488
+11002,Copa Verde,Brazil,Soccer,1,458
+10247,Premier League,Lebanon,Soccer,1,501
+10320,League 2,Scotland,Soccer,1,527
+10255,U20 Liga MX,Mexico,Soccer,1,505
+10059,Campeonato Rondoniense,Brazil,Soccer,1,458
+10291,Philippines Footb. League,Philippines,Soccer,1,517
+10006,Queensland NPL - Women,Australia,Soccer,1,448
+10234,Serie C - Group B,Italy,Soccer,1,494
+10923,Super Cup,Kazakhstan,Soccer,1,552
+11328,Victoria NPL - Women,Australia,Soccer,1,448
+10134,Championnat National U19,France,Soccer,1,477
+10161,Bayernliga South,Germany,Soccer,1,479
+10089,CFL,Czech Republic,Soccer,1,469
+11046,UEFA Champions League Women,International,Soccer,1,490
+11354,Divizia A,Moldova,Soccer,1,583
+11123,1st Division - Women,Norway,Soccer,1,511
+10364,Division 2 - Sodra Gotaland,Sweden,Soccer,1,533
+10385,3. Lig - Group 3,Turkiye,Soccer,1,538
+11120,Campeonato Brasileiro - Women,Brazil,Soccer,1,458
+10387,U19 Elit B,Turkiye,Soccer,1,538
+10250,Coupe de Luxembourg,Luxembourg,Soccer,1,502
+10017,First Division,Azerbaijan,Soccer,1,450
+10318,Championship,Scotland,Soccer,1,527
+10163,Oberliga Mittelrhein,Germany,Soccer,1,479
+10390,Arabian Gulf League,United Arab Emirates,Soccer,1,541
+10209,U19 European Championship - Qualification,International,Soccer,1,490
+11415,Serie B,Ecuador,Soccer,1,471
+10029,Division Profesional,Bolivia,Soccer,1,455
+10292,Ekstraklasa,Poland,Soccer,1,518
+10361,Allsvenskan,Sweden,Soccer,1,533
+10052,Paraense,Brazil,Soccer,1,458
+10113,Northern Premier League - Premier Division,England,Soccer,1,474
+9990,Primera Divisio,Andorra,Soccer,1,446
+10941,National League,Myanmar,Soccer,1,559
+10099,Primera Division - Clausura,El Salvador,Soccer,1,473
+11309,CLJ,Poland,Soccer,1,518
+10269,Premiership,Northern Ireland,Soccer,1,509
+11003,Toppserien - Women,Norway,Soccer,1,511
+10131,National,France,Soccer,1,477
+10388,Premier League,Uganda,Soccer,1,539
+11403,CONMEBOL UEFA Cup of Champions - Women,International,Soccer,1,490
+10236,Coppa Italia - Women,Italy,Soccer,1,494
+10317,Premiership,Scotland,Soccer,1,527
+10258,Liga MX - Women - Clausura,Mexico,Soccer,1,505
+10158,Regionalliga Northeast,Germany,Soccer,1,479
+12054,Supercoppa di Lega Pro,Italy,Soccer,1,494
+10242,J.League 2,Japan,Soccer,1,497
+10039,Mineiro,Brazil,Soccer,1,458
+10305,K-League 1,Republic of Korea,Soccer,1,521
+10942,Ekstraliga - Women,Poland,Soccer,1,518
+10202,Recopa Sudamericana,International,Soccer,1,490
+10192,World Cup - Women,International,Soccer,1,490
+11122,Emir Cup,Kuwait,Soccer,1,500
+10333,2. Liga,Slovenia,Soccer,1,530
+10019,King of Bahrain Cup,Bahrain,Soccer,1,451
+10179,NB II,Hungary,Soccer,1,486
+10036,Catarinense,Brazil,Soccer,1,458
+10172,U19 Super League,Greece,Soccer,1,482
+11336,Bulgarian Cup,Bulgaria,Soccer,1,459
+11339,Danmarksserien,Denmark,Soccer,1,470
+11539,A-Junioren-Bundesliga - Playoffs,Germany,Soccer,1,479
+10225,Coppa Italia,Italy,Soccer,1,494
+10180,Besta deild,Iceland,Soccer,1,487
+10101,Premier League,England,Soccer,1,474
+10109,National League South,England,Soccer,1,474
+10063,Parva Liga,Bulgaria,Soccer,1,459
+10316,Division 1,Saudi Arabia,Soccer,1,526
+10018,Premier League,Bahrain,Soccer,1,451
+10307,Liga I,Romania,Soccer,1,522
+10012,Regionalliga Centre,Austria,Soccer,1,449
+10117,Southern Football League -Premier Division Central,England,Soccer,1,474
+10910,Serie D - Girone C,Italy,Soccer,1,494
+10003,Victoria - NPL1,Australia,Soccer,1,448
+10393,Primera Division,Uruguay,Soccer,1,542
+11421,USL W League,USA,Soccer,1,543
+10177,NB I,Hungary,Soccer,1,486
+10071,Super Liga Cup,Colombia,Soccer,1,464
+11272,U19,Ukraine,Soccer,1,540
+10919,Girabola,Angola,Soccer,1,556
+11365,Pro Liga,Uzbekistan,Soccer,1,581
+10280,3rd Division Group 2,Norway,Soccer,1,511
+11598,Viareggio Cup - Women,International,Soccer,1,490
+11760,Liga 3,Romania,Soccer,1,522
+11485,Brasileiro Serie C,Brazil,Soccer,1,458
+11615,Segunda Division,Paraguay,Soccer,1,515
+11408,Tasmania NPL,Australia,Soccer,1,448
+10013,Bundesliga - Women,Austria,Soccer,1,449
+11048,U19 Friendly Games,International,Soccer,1,490
+10343,Tercera Federacion - Group 1,Spain,Soccer,1,532
+10227,Serie D - Girone F,Italy,Soccer,1,494
+11345,Super Cup - Women,Iceland,Soccer,1,487
+11281,U17 Euro W Ch.ship - QF,International,Soccer,1,490
+9997,Primera C,Argentina,Soccer,1,447
+11538,Paulista - Segunda Divisao U23,Brazil,Soccer,1,458
+11101,Rock Cup,Gibraltar,Soccer,1,481
+10187,3. deild,Iceland,Soccer,1,487
+10170,Greece Cup,Greece,Soccer,1,482
+10903,Supercopa do Brasil - Women,Brazil,Soccer,1,458
+10215,Pro League,Iran,Soccer,1,491
+11361,Superettan,Sweden,Soccer,1,533
+10384,3. Lig - Group 2,Turkiye,Soccer,1,538
+10132,Coupe de France,France,Soccer,1,477
+10083,1. Liga,Czech Republic,Soccer,1,469
+10075,Liga de Ascenso - Clausura,Costa Rica,Soccer,1,466
+11330,Azerbaijan Cup,Azerbaijan,Soccer,1,450
+10005,A-League - Women,Australia,Soccer,1,448
+10159,Regionalliga Bavaria,Germany,Soccer,1,479
+10155,A-Junioren-Bundesliga S/S-W,Germany,Soccer,1,479
+11419,Premier Soccer League,Zimbabwe,Soccer,1,586
+11271,Cupa Moldova,Moldova,Soccer,1,583
+10226,Coppa Italia Serie C,Italy,Soccer,1,494
+9987,Kupa e Shqiperise,Albania,Soccer,1,444
+10277,2nd Division Group 2,Norway,Soccer,1,511
+10321,Challenge Cup,Scotland,Soccer,1,527
+10074,Primera Division - Clausura,Costa Rica,Soccer,1,466
+11362,Ettan - Norra,Sweden,Soccer,1,533
+10182,League Cup A,Iceland,Soccer,1,487
+10124,Esiliiga,Estonia,Soccer,1,475
+10093,DBU Pokalen,Denmark,Soccer,1,470
+11360,Serbia Cup,Serbia,Soccer,1,528
+11108,K3 League,Republic of Korea,Soccer,1,521
+10064,Second Prof. League,Bulgaria,Soccer,1,459
+10392,Division 1,United Arab Emirates,Soccer,1,541
+10370,U19 Allsvenskan,Sweden,Soccer,1,533
+10023,Challenger Pro League,Belgium,Soccer,1,454
+10999,Superliga,Kosovo,Soccer,1,499
+10196,SheBelieves Cup - Women,International,Soccer,1,490
+10194,Int. Friendly Games W,International,Soccer,1,490
+10947,NISA,USA,Soccer,1,543
+10896,U19 Championship,Portugal,Soccer,1,519
+10135,Erovnuli Liga,Georgia,Soccer,1,478
+10300,Campeonato de Portugal,Portugal,Soccer,1,519
+9989,Ligue 2,Algeria,Soccer,1,445
+12008,Southeast Asian Games - Women,International,Soccer,1,490
+11612,National Premier Soccer League,USA,Soccer,1,543
+10162,Oberliga Niederrhein,Germany,Soccer,1,479
+10216,Hazfi Cup,Iran,Soccer,1,491
+11991,China League 1,China,Soccer,1,548
+10252,Premier League,Malta,Soccer,1,504
+10149,Bremen-Liga,Germany,Soccer,1,479
+10125,Esiliiga B,Estonia,Soccer,1,475
+10401,Cymru Championship - North,Wales,Soccer,1,546
+10027,Super League - Women,Belgium,Soccer,1,454
+11698,U20 Paulista,Brazil,Soccer,1,458
+11327,Capital NPL 1,Australia,Soccer,1,448
+11027,KNVB beker - Women,Netherlands,Soccer,1,506
+11621,Liga Femenina,Peru,Soccer,1,516
+11699,1.Liga,Latvia,Soccer,1,553
+10222,Ligat Al - Women,Israel,Soccer,1,493
+10165,2. Bundesliga - Women,Germany,Soccer,1,479
+10917,Primera B,Argentina,Soccer,1,447
+10137,Bundesliga,Germany,Soccer,1,479
+10378,Thai League 2,Thailand,Soccer,1,536
+10309,Russian Cup,Russia,Soccer,1,523
+10212,U17 CONCACAF Championship,International,Soccer,1,490
+10249,Promotion d'Honneur,Luxembourg,Soccer,1,502
+10290,Primera Division,Peru,Soccer,1,516
+11350,U21 Premier League International Cup,International,Soccer,1,490
+10211,U20 Africa Cup of Nations,International,Soccer,1,490
+10274,Eliteserien,Norway,Soccer,1,511
+10235,Serie C - Group C,Italy,Soccer,1,494
+10337,LaLiga,Spain,Soccer,1,532
+10267,Primera Division,Nicaragua,Soccer,1,507
+11768,Copa Chile,Chile,Soccer,1,463
+10898,Serie D - Girone G,Italy,Soccer,1,494
+11602,Carioca - Serie A2,Brazil,Soccer,1,458
+10072,Primera A - Apertura,Colombia,Soccer,1,464
+10248,Division Nationale,Luxembourg,Soccer,1,502
+11195,U20 Friendly Games,International,Soccer,1,490
+10918,Crown Prince Cup,Kuwait,Soccer,1,500
+11164,USL Championship,USA,Soccer,1,543
+11352,Liechtensteiner Cup,Liechtenstein,Soccer,1,585
+10302,U23 Liga Revelacao,Portugal,Soccer,1,519
+10073,Premier League,Congo,Soccer,1,465
+10042,Paranaense,Brazil,Soccer,1,458
+10167,National League,Gibraltar,Soccer,1,481
+10002,NSW NPL 1,Australia,Soccer,1,448
+10097,Premier League,Egypt,Soccer,1,472
+11407,Western Australia NPL,Australia,Soccer,1,448
+11137,III Liga - Group 4,Poland,Soccer,1,518
+10339,Copa del Rey,Spain,Soccer,1,532
+10281,3rd Division Group 3,Norway,Soccer,1,511
+10086,U19 1st Division,Czech Republic,Soccer,1,469
+11035,Segunda Division,El Salvador,Soccer,1,473
+10084,FNL,Czech Republic,Soccer,1,469
+10965,Division 1,Kuwait,Soccer,1,500
+10120,Professional Development League,England,Soccer,1,474
+11998,Logmanssteypid,Faroe Islands,Soccer,1,584
+10352,Tercera Federacion - Group 10,Spain,Soccer,1,532
+10276,NM Cup,Norway,Soccer,1,511
+10051,Mato-Grossense,Brazil,Soccer,1,458
+10014,Regionalliga Tirol,Austria,Soccer,1,449
+10040,Pernambucano,Brazil,Soccer,1,458
+10090,Superliga,Denmark,Soccer,1,470
+10217,Azadegan League,Iran,Soccer,1,491
+10030,Premijer Liga,Bosnia & Herzegovina,Soccer,1,456
+10108,EFL Trophy,England,Soccer,1,474
+11355,League Cup,Northern Ireland,Soccer,1,509
+10362,Division 2 - Norra Svealand,Sweden,Soccer,1,533
+11604,U21 Friendly Games,International,Soccer,1,490
+11285,Coupe de France - Women,France,Soccer,1,477
+10239,J.League Cup,Japan,Soccer,1,497
+10028,Coupe U21 Pro League,Belgium,Soccer,1,454
+10197,UEFA Nations League,International,Soccer,1,490
+12094,U20 World Cup,International,Soccer,1,490
+11256,Elitettan - Women,Sweden,Soccer,1,533
+10185,1. deild - Women,Iceland,Soccer,1,487
+11412,Chinese Super League - Women,China,Soccer,1,548
+11841,FA Super Cup,China,Soccer,1,548
+10096,Super Copa,Ecuador,Soccer,1,471
+11222,Super Cup,Argentina,Soccer,1,447
+10938,Kakkonen - Group B,Finland,Soccer,1,476
+10944,Premier League,Singapore,Soccer,1,558
+12163,U19 European Championship,International,Soccer,1,490
+10379,Ligue 1,Tunisia,Soccer,1,537
+10363,Division 2 - Norrland,Sweden,Soccer,1,533
+11337,Canadian Championship,Canada,Soccer,1,462
+11163,WE League - Women,Japan,Soccer,1,497
+10904,Int. Friendly Games,International,Soccer,1,490
+10058,Campeonato Capixaba,Brazil,Soccer,1,458
+11217,Kazakhstan Cup,Kazakhstan,Soccer,1,552
+10357,Tercera Federacion - Group 15,Spain,Soccer,1,532
+11343,FA Cup,"Hong Kong, China",Soccer,1,485
+10156,Oberliga Niedersachsen,Germany,Soccer,1,479
+10085,Cup,Czech Republic,Soccer,1,469
+11601,Gaucho - Serie A2,Brazil,Soccer,1,458
+10266,U21 KNVB - Divisie 1,Netherlands,Soccer,1,506
+10313,Campionato Sammarinese,San Marino,Soccer,1,525
+10126,Veikkausliiga,Finland,Soccer,1,476
+11605,Lebanon Cup,Lebanon,Soccer,1,501
+10056,Amazonense,Brazil,Soccer,1,458
+10065,Ligue A,Burundi,Soccer,1,460
+10920,Premier League,Ethiopia,Soccer,1,557
+10336,National First Division,South Africa,Soccer,1,531
+10283,3rd Division Group 5,Norway,Soccer,1,511
+10026,U21 Pro League,Belgium,Soccer,1,454
+10190,Liga 1,Indonesia,Soccer,1,489
+10061,Cearense - Serie B,Brazil,Soccer,1,458
+10000,South Australia NPL,Australia,Soccer,1,448
+10341,Primera Division Women,Spain,Soccer,1,532
+11030,NWSL Challenge Cup,USA,Soccer,1,543
+10038,Cearense,Brazil,Soccer,1,458
+10254,FA Trophy,Malta,Soccer,1,504
+11208,Roraimense,Brazil,Soccer,1,458
+11703,A-Junioren-Bundesliga - Sonderspielrunde,Germany,Soccer,1,479
+10293,I Liga,Poland,Soccer,1,518
+10173,Liga Nacional. Clausura,Guatemala,Soccer,1,483
+10273,2. MFL,North Macedonia,Soccer,1,510
+10282,3rd Division Group 4,Norway,Soccer,1,511
+11335,Brasileiro Serie B,Brazil,Soccer,1,458
+10329,Slovensky Pohar,Slovakia,Soccer,1,529
+11332,Belarus Cup,Belarus,Soccer,1,453
+11311,Segunda Division,Uruguay,Soccer,1,542
+10104,EFL Cup,England,Soccer,1,474
+10397,V-League,Vietnam,Soccer,1,545
+10130,Ligue 2,France,Soccer,1,477
+10150,Oberliga Hamburg,Germany,Soccer,1,479
+11029,Tournoi de France - Women,International,Soccer,1,490
+11105,Trofeo de Campeones de la Liga Profesional,Argentina,Soccer,1,447
+10912,Serie D - Girone E,Italy,Soccer,1,494
+10145,Oberliga NOFV South,Germany,Soccer,1,479
 11023,National Womens Soccer League,USA,Soccer,1,543
 10021,Premier League,Bangladesh,Soccer,1,452
-10401,Cymru Championship - North,Wales,Soccer,1,546
-10326,Superliga,Serbia,Soccer,1,528
-10936,FA Womens League Cup,England,Soccer,1,474
-10124,Esiliiga,Estonia,Soccer,1,475
-10171,Super League - Women,Greece,Soccer,1,482
-10283,"3rd Division Group 5",Norway,Soccer,1,511
-10150,Oberliga Hamburg,Germany,Soccer,1,479
-10285,Omani League,Oman,Soccer,1,512
-10925,Super Cup,Lithuania,Soccer,1,550
-10058,Campeonato Capixaba,Brazil,Soccer,1,458
-10366,Division 2 - Sodra Svealand,Sweden,Soccer,1,533
-10289,Division de Honor - Apertura,Paraguay,Soccer,1,515
-10112,The FA Women's Super League,England,Soccer,1,474
-11349,U19 European Championship - Women - Qualification,International,Soccer,1,490
-10398,Cymru Premier,Wales,Soccer,1,546
-10264,Eredivisie - Women,Netherlands,Soccer,1,506
-10231,Campionato Primavera 2,Italy,Soccer,1,494
-10947,NISA,USA,Soccer,1,543
-11364,Persha Liga,Ukraine,Soccer,1,540
-10023,Challenger Pro League,Belgium,Soccer,1,454
-11008,Morocco Cup,Morocco,Soccer,1,576
-10129,Ligue 1,France,Soccer,1,477
-10242,J.League 2,Japan,Soccer,1,497
-10371,Super League,Switzerland,Soccer,1,534
-10095,LigaPro Primera A,Ecuador,Soccer,1,471
-11621,Liga Femenina,Peru,Soccer,1,516
-10054,Piauiense,Brazil,Soccer,1,458
-11413,U17 CONMEBOL Championship,International,Soccer,1,490
-11323,Copa de la Liga,Argentina,Soccer,1,447
-10192,World Cup - Women,International,Soccer,1,490
-10290,Primera Division,Peru,Soccer,1,516
-11332,Belarus Cup,Belarus,Soccer,1,453
-10178,Magyar Kupa,Hungary,Soccer,1,486
-10161,Bayernliga South,Germany,Soccer,1,479
-10396,Primera Division,Venezuela,Soccer,1,544
-12009,Suomen Cup,Finland,Soccer,1,476
-11357,Stars Cup,Qatar,Soccer,1,520
-10905,Serie D - Girone B,Italy,Soccer,1,494
-11065,"1. CFL",Montenegro,Soccer,1,577
-10275,"1st Division",Norway,Soccer,1,511
-10222,Ligat Al - Women,Israel,Soccer,1,493
-10097,Premier League,Egypt,Soccer,1,472
-10328,"2. Liga",Slovakia,Soccer,1,529
-10315,Kings Cup,Saudi Arabia,Soccer,1,526
-9993,Liga Profesional,Argentina,Soccer,1,447
-10250,Coupe de Luxembourg,Luxembourg,Soccer,1,502
-10138,"2nd Bundesliga",Germany,Soccer,1,479
-11416,Cup,Estonia,Soccer,1,475
-10047,Paraibano,Brazil,Soccer,1,458
-11209,Druga Liga Crne Gore,Montenegro,Soccer,1,577
-10103,FA Cup,England,Soccer,1,474
-11850,Regionalliga West,Austria,Soccer,1,449
-10977,World Cup Qualification - Women - Inter-Confederation Playoffs,International,Soccer,1,490
-10937,Kakkonen - Group A,Finland,Soccer,1,476
-10100,Primera Division - Reserves - Clausura,El Salvador,Soccer,1,473
-10206,Atlantic Cup,International,Soccer,1,490
-10169,Super League 2,Greece,Soccer,1,482
-11105,Trofeo de Campeones de la Liga Profesional,Argentina,Soccer,1,447
-10116,Premier League Cup,England,Soccer,1,474
-10108,EFL Trophy,England,Soccer,1,474
-10089,CFL,Czech Republic,Soccer,1,469
-10384,"3. Lig - Group 2",Turkiye,Soccer,1,538
-10299,Taca de Portugal,Portugal,Soccer,1,519
-10379,Ligue 1,Tunisia,Soccer,1,537
-10025,Beker van Belgie,Belgium,Soccer,1,454
-11195,U20 Friendly Games,International,Soccer,1,490
-11004,Premier League,Senegal,Soccer,1,575
-10383,"3. Lig - Group 1",Turkiye,Soccer,1,538
-10130,Ligue 2,France,Soccer,1,477
-10939,Kakkonen - Group C,Finland,Soccer,1,476
-10924,A Lyga,Lithuania,Soccer,1,550
-10163,Oberliga Mittelrhein,Germany,Soccer,1,479
-10131,National,France,Soccer,1,477
-10147,Women Bundesliga,Germany,Soccer,1,479
-10357,Tercera Federacion - Group 15,Spain,Soccer,1,532
-11351,Nadeshiko League - Div. 1 - Women,Japan,Soccer,1,497
-10180,Besta deild,Iceland,Soccer,1,487
-10367,Svenska Cup,Sweden,Soccer,1,533
-11070,Premier Division,Ireland,Soccer,1,492
-11698,U20 Paulista,Brazil,Soccer,1,458
-11122,Emir Cup,Kuwait,Soccer,1,500
-10382,"2. Lig",Turkiye,Soccer,1,538
-10347,Tercera Federacion - Group 5,Spain,Soccer,1,532
-10143,Oberliga NOFV North,Germany,Soccer,1,479
-10088,MSFL,Czech Republic,Soccer,1,469
-10145,Oberliga NOFV South,Germany,Soccer,1,479
-10323,Scottish Cup,Scotland,Soccer,1,527
-10096,Super Copa,Ecuador,Soccer,1,471
-10042,Paranaense,Brazil,Soccer,1,458
-11123,"1st Division - Women",Norway,Soccer,1,511
-11540,League Cup,United Arab Emirates,Soccer,1,541
-10031,Bosnia & Herzegovina Cup,Bosnia & Herzegovina,Soccer,1,456
-10208,U20 CONMEBOL Ch.ship,International,Soccer,1,490
-11596,U21 UEFA European Championship - Qualification,International,Soccer,1,490
-10179,NB II,Hungary,Soccer,1,486
-10262,Eerste Divisie,Netherlands,Soccer,1,506
-11991,China League 1,China,Soccer,1,548
-10926,Community Shield,Singapore,Soccer,1,558
-10318,Championship,Scotland,Soccer,1,527
-10258,Liga MX - Women - Clausura,Mexico,Soccer,1,505
-10110,National League North,England,Soccer,1,474
-10302,U23 Liga Revelacao,Portugal,Soccer,1,519
-10037,Gaucho,Brazil,Soccer,1,458
-10265,Tweede Divisie,Netherlands,Soccer,1,506
-10920,Premier League,Ethiopia,Soccer,1,557
-11311,Segunda Division,Uruguay,Soccer,1,542
-10364,Division 2 - Sodra Gotaland,Sweden,Soccer,1,533
-11002,Copa Verde,Brazil,Soccer,1,458
-10185,"1. deild - Women",Iceland,Soccer,1,487
-10365,Division 2 - Vastra Gotaland,Sweden,Soccer,1,533
-10015,Eliteliga Voralberg,Austria,Soccer,1,449
-10273,"2. MFL",North Macedonia,Soccer,1,510
-11099,Premier League,Armenia,Soccer,1,578
-10280,"3rd Division Group 2",Norway,Soccer,1,511
-10393,Primera Division,Uruguay,Soccer,1,542
-11604,U21 Friendly Games,International,Soccer,1,490
-12007,U23 Southeast Asian Games,International,Soccer,1,490
-10910,Serie D - Girone C,Italy,Soccer,1,494
-10087,"1. Liga - Women",Czech Republic,Soccer,1,469
-11485,Brasileiro Serie C,Brazil,Soccer,1,458
-10040,Pernambucano,Brazil,Soccer,1,458
-11598,Viareggio Cup - Women,International,Soccer,1,490
-10111,FA Trophy,England,Soccer,1,474
-12091,China League 2,China,Soccer,1,548
-11362,Ettan - Norra,Sweden,Soccer,1,533
-10354,Tercera Federacion - Group 12,Spain,Soccer,1,532
-11273,USL League One,USA,Soccer,1,543
-10118,Southern Football League - Premier Division South,England,Soccer,1,474
-10151,Schleswig-Holstein-Liga,Germany,Soccer,1,479
-10338,LaLiga 2,Spain,Soccer,1,532
-11324,Torneo Federal A,Argentina,Soccer,1,447
-11003,Toppserien - Women,Norway,Soccer,1,511
-10197,UEFA Nations League,International,Soccer,1,490
-10048,Sergipano,Brazil,Soccer,1,458
-10091,"1. Division",Denmark,Soccer,1,470
-11360,Serbia Cup,Serbia,Soccer,1,528
-11080,Botola 2,Morocco,Soccer,1,576
-10229,Primavera Cup,Italy,Soccer,1,494
-11787,PFL - West,Russia,Soccer,1,523
-11024,CAF Confederations Cup,International,Soccer,1,490
-11337,Canadian Championship,Canada,Soccer,1,462
-11164,USL Championship,USA,Soccer,1,543
-10062,Copa Alagoas,Brazil,Soccer,1,458
-10966,Tunisian Cup,Tunisia,Soccer,1,537
-10238,Premier League,Jamaica,Soccer,1,496
-11403,CONMEBOL UEFA Cup of Champions - Women,International,Soccer,1,490
-11617,Pervaya Liga,Belarus,Soccer,1,453
-12094,U20 World Cup,International,Soccer,1,490
-10039,Mineiro,Brazil,Soccer,1,458
-10304,Stars League,Qatar,Soccer,1,520
-10190,Liga 1,Indonesia,Soccer,1,489
-10090,Superliga,Denmark,Soccer,1,470
-10287,West Bank League,Palestine,Soccer,1,513
-10369,Svenska Cup Women,Sweden,Soccer,1,533
-10207,UEFA Europa Conference League,International,Soccer,1,490
-10006,Queensland NPL - Women,Australia,Soccer,1,448
-10309,Russian Cup,Russia,Soccer,1,523
-10085,Cup,Czech Republic,Soccer,1,469
-11693,Turkiye Kupasi,Turkiye,Soccer,1,538
-10313,Campionato Sammarinese,San Marino,Soccer,1,525
-9988,Ligue 1,Algeria,Soccer,1,445
-10288,Liga Panamena de Futbol - Apertura,Panama,Soccer,1,514
-10397,V-League,Vietnam,Soccer,1,545
-11998,Logmanssteypid,Faroe Islands,Soccer,1,584
-10072,Primera A - Apertura,Colombia,Soccer,1,464
-10079,"1st Division",Cyprus,Soccer,1,468
-10080,Cyprus Cup,Cyprus,Soccer,1,468
-9997,Primera C,Argentina,Soccer,1,447
-10000,South Australia NPL,Australia,Soccer,1,448
-10214,U20 AFC Asian Cup,International,Soccer,1,490
-11741,Brasileiro Serie A2 - Women,Brazil,Soccer,1,458
-10068,Primera B,Chile,Soccer,1,463
-10251,Super League,Malaysia,Soccer,1,503
-10243,J3 League,Japan,Soccer,1,497
-11415,Serie B,Ecuador,Soccer,1,471
-11329,Regionalliga Salzburg,Austria,Soccer,1,449
-10239,J.League Cup,Japan,Soccer,1,497
-11358,Romania Cup,Romania,Soccer,1,522
-10284,"3rd Division Group 6",Norway,Soccer,1,511
-11327,Capital NPL 1,Australia,Soccer,1,448
-11407,Western Australia NPL,Australia,Soccer,1,448
-10193,African Nations Championship,International,Soccer,1,490
-10286,Sultan Cup,Oman,Soccer,1,512
-10156,Oberliga Niedersachsen,Germany,Soccer,1,479
-11212,Superliga,Uzbekistan,Soccer,1,581
-10165,"2. Bundesliga - Women",Germany,Soccer,1,479
-10024,Pro League,Belgium,Soccer,1,454
-10001,Queensland NPL,Australia,Soccer,1,448
-10036,Catarinense,Brazil,Soccer,1,458
-10391,Super Cup,United Arab Emirates,Soccer,1,541
-10943,Football National League,Russia,Soccer,1,523
-10385,"3. Lig - Group 3",Turkiye,Soccer,1,538
-10255,U20 Liga MX,Mexico,Soccer,1,505
-10034,Paulista - Serie A1,Brazil,Soccer,1,458
-10104,EFL Cup,England,Soccer,1,474
-10368,Division 2 - Norra Gotaland,Sweden,Soccer,1,533
-11605,Lebanon Cup,Lebanon,Soccer,1,501
-10226,Coppa Italia Serie C,Italy,Soccer,1,494
-9990,Primera Divisio,Andorra,Soccer,1,446
-10377,Thai League 1,Thailand,Soccer,1,536
-10174,Liga Nacional. Clausura,Honduras,Soccer,1,484
-10035,Baiano,Brazil,Soccer,1,458
-10139,DFB Pokal,Germany,Soccer,1,479
-11117,Virsliga,Latvia,Soccer,1,553
-10076,HNL,Croatia,Soccer,1,467
-10897,Serie D - Girone A,Italy,Soccer,1,494
-11216,Cup - Women,Iceland,Soccer,1,487
-10244,Premier League,Kenya,Soccer,1,498
-10940,NB I - Women,Hungary,Soccer,1,486
-10240,J.League,Japan,Soccer,1,497
-11005,US Open Cup,USA,Soccer,1,543
-11359,PFL - Ural-Povolzhye,Russia,Soccer,1,523
-10188,I-League,India,Soccer,1,488
-10965,Division 1,Kuwait,Soccer,1,500
-10351,Tercera Federacion - Group 9,Spain,Soccer,1,532
-10218,FAI Presidents Cup,Ireland,Soccer,1,492
-10300,Campeonato de Portugal,Portugal,Soccer,1,519
-10272,"1. MFL",North Macedonia,Soccer,1,510
-10320,League 2,Scotland,Soccer,1,527
-10060,Campeonato Acreano,Brazil,Soccer,1,458
-11612,National Premier Soccer League,USA,Soccer,1,543
+10081,2nd Division,Cyprus,Soccer,1,468
 10011,Regionalliga East,Austria,Soccer,1,449
-10141,Regionalliga North,Germany,Soccer,1,479
-10049,Maranhense,Brazil,Soccer,1,458
-11356,Division de Honor - Clausura,Paraguay,Soccer,1,515
-10140,"3. Liga",Germany,Soccer,1,479
-10235,Serie C - Group C,Italy,Soccer,1,494
-11460,Premier Division - Women,Ireland,Soccer,1,492
-11029,Tournoi de France - Women,International,Soccer,1,490
-10370,U19 Allsvenskan,Sweden,Soccer,1,533
-10067,Canadian Premier League,Canada,Soccer,1,462
-10375,Super League - Women,Switzerland,Soccer,1,534
-10310,Premier League,Russia,Soccer,1,523
-10337,LaLiga,Spain,Soccer,1,532
-10215,Pro League,Iran,Soccer,1,491
-10019,King of Bahrain Cup,Bahrain,Soccer,1,451
-10400,Cymru Championship South,Wales,Soccer,1,546
-11704,Leagues Cup,International,Soccer,1,490
-10247,Premier League,Lebanon,Soccer,1,501
-10158,Regionalliga Northeast,Germany,Soccer,1,479
-10330,U19 1. Liga,Slovakia,Soccer,1,529
-10220,Israel Cup,Israel,Soccer,1,493
-11328,Victoria NPL - Women,Australia,Soccer,1,448
-10399,FAW Welsh Cup,Wales,Soccer,1,546
-11021,Qatar Cup,Qatar,Soccer,1,520
-10071,Super Liga Cup,Colombia,Soccer,1,464
-11361,Superettan,Sweden,Soccer,1,533
-10194,Int. Friendly Games W,International,Soccer,1,490
-10340,Segunda Federacion,Spain,Soccer,1,532
-11363,Ettan - Sodra,Sweden,Soccer,1,533
-10362,Division 2 - Norra Svealand,Sweden,Soccer,1,533
-10065,Ligue A,Burundi,Soccer,1,460
-11256,Elitettan - Women,Sweden,Soccer,1,533
-10073,Premier League,Congo,Soccer,1,465
-10132,Coupe de France,France,Soccer,1,477
-9995,Copa Argentina,Argentina,Soccer,1,447
-11136,III Liga - Group 2,Poland,Soccer,1,518
-10013,Bundesliga - Women,Austria,Soccer,1,449
-10236,Coppa Italia - Women,Italy,Soccer,1,494
-11137,III Liga - Group 4,Poland,Soccer,1,518
-11012,CAF Champions League,International,Soccer,1,490
-11046,UEFA Champions League Women,International,Soccer,1,490
-10344,Tercera Federacion - Group 2,Spain,Soccer,1,532
-11354,Divizia A,Moldova,Soccer,1,583
-10081,"2nd Division",Cyprus,Soccer,1,468
-10144,Oberliga Westfalen,Germany,Soccer,1,479
-11406,"1 Lyga",Lithuania,Soccer,1,550
-11345,Super Cup - Women,Iceland,Soccer,1,487
-11423,USL League Two,USA,Soccer,1,543
-10228,Serie D - Girone H,Italy,Soccer,1,494
-10003,Victoria - NPL1,Australia,Soccer,1,448
-10281,"3rd Division Group 3",Norway,Soccer,1,511
-11343,FA Cup,"Hong Kong, China",Soccer,1,485
-10092,"2nd Division",Denmark,Soccer,1,470
-10052,Paraense,Brazil,Soccer,1,458
-10121,Premier League 2 - Div. 2,England,Soccer,1,474
-11103,Copa de SM La Reina,Spain,Soccer,1,532
-10361,Allsvenskan,Sweden,Soccer,1,533
-10007,South Australia NPL - Women,Australia,Soccer,1,448
-10913,Serie D - Girone I,Italy,Soccer,1,494
-10205,Club Friendly Games,International,Soccer,1,490
-10135,Erovnuli Liga,Georgia,Soccer,1,478
-11684,U23 Friendly Games,International,Soccer,1,490
-11538,Paulista - Segunda Divisao U23,Brazil,Soccer,1,458
-10177,NB I,Hungary,Soccer,1,486
-10069,Primera Division,Chile,Soccer,1,463
-11760,Liga 3,Romania,Soccer,1,522
-10392,Division 1,United Arab Emirates,Soccer,1,541
-10102,Championship,England,Soccer,1,474
-9999,A-League,Australia,Soccer,1,448
-10050,Potiguar,Brazil,Soccer,1,458
-10002,NSW NPL 1,Australia,Soccer,1,448
-10123,Super Cup,Estonia,Soccer,1,475
-10277,"2nd Division Group 2",Norway,Soccer,1,511
-12100,U20 Gaucho - Serie A1,Brazil,Soccer,1,458
-11333,Prva Liga - Fed BiH,Bosnia & Herzegovina,Soccer,1,456
-10388,Premier League,Uganda,Soccer,1,539
-9998,Liga Profesional - Reserves,Argentina,Soccer,1,447
-10063,Parva Liga,Bulgaria,Soccer,1,459
-10061,Cearense - Serie B,Brazil,Soccer,1,458
-11299,First League,Armenia,Soccer,1,578
-10216,Hazfi Cup,Iran,Soccer,1,491
-10105,League One,England,Soccer,1,474
-10234,Serie C - Group B,Italy,Soccer,1,494
-10935,Copa Colombia,Colombia,Soccer,1,464
-11411,NM Cup Women,Norway,Soccer,1,511
-10154,A-Junioren-Bundesliga West,Germany,Soccer,1,479
-10311,Rwanda Premier League,Rwanda,Soccer,1,524
-10319,League 1,Scotland,Soccer,1,527
-10125,Esiliiga B,Estonia,Soccer,1,475
-10005,A-League - Women,Australia,Soccer,1,448
-10892,Copa Division Profesional,Bolivia,Soccer,1,455
-10259,Liga Premier Serie A - Clausura,Mexico,Soccer,1,505
-9994,Primera Nacional,Argentina,Soccer,1,447
-10120,Professional Development League,England,Soccer,1,474
-10923,Super Cup,Kazakhstan,Soccer,1,552
-10210,U17 European Championship Qualification,International,Soccer,1,490
-11342,DFB-Pokal Junioren,Germany,Soccer,1,479
-11224,Prva Liga - Rep of Srpska,Bosnia & Herzegovina,Soccer,1,456
-10106,League Two,England,Soccer,1,474
-10260,Liga Premier Serie B - Clausura,Mexico,Soccer,1,505
-11300,Ligue 2,Tunisia,Soccer,1,537
-10374,Promotion League,Switzerland,Soccer,1,534
-11412,Chinese Super League - Women,China,Soccer,1,548
-10153,A-Junioren-Bundesliga N/N-E,Germany,Soccer,1,479
 10335,FA Cup,South Africa,Soccer,1,531
-10083,"1. Liga",Czech Republic,Soccer,1,469
-12008,Southeast Asian Games - Women,International,Soccer,1,490
-11417,V-League 2,Vietnam,Soccer,1,545
-11326,Armenian Cup,Armenia,Soccer,1,578
-10303,Liga Portugal 3,Portugal,Soccer,1,519
-9996,Primera Division - Women,Argentina,Soccer,1,447
-11120,Campeonato Brasileiro - Women,Brazil,Soccer,1,458
-11989,LFF Cup,Lithuania,Soccer,1,550
-10256,Liga de Expansion MX - Clausura,Mexico,Soccer,1,505
-10352,Tercera Federacion - Group 10,Spain,Soccer,1,532
-10168,Super League 1,Greece,Soccer,1,482
-11223,Premier League,Zanzibar,Soccer,1,582
-11309,CLJ,Poland,Soccer,1,518
-10372,Challenge League,Switzerland,Soccer,1,534
-11340,Premier League,Faroe Islands,Soccer,1,584
-10017,First Division,Azerbaijan,Soccer,1,450
-11910,Cup Crne Gore,Montenegro,Soccer,1,577
-11841,FA Super Cup,China,Soccer,1,548
-10223,Serie A,Italy,Soccer,1,494
-12080,Supercup,Egypt,Soccer,1,472
-10946,Gaza Strip Premier League,Palestine,Soccer,1,513
-11196,FA Cup,Malaysia,Soccer,1,503
-10904,Int. Friendly Games,International,Soccer,1,490
-10204,UEFA Europa League,International,Soccer,1,490
-11601,Gaucho - Serie A2,Brazil,Soccer,1,458
-11365,Pro Liga,Uzbekistan,Soccer,1,581
-10122,Premium Liiga,Estonia,Soccer,1,475
-10196,SheBelieves Cup - Women,International,Soccer,1,490
-10059,Campeonato Rondoniense,Brazil,Soccer,1,458
-10109,National League South,England,Soccer,1,474
-10921,Kansallinen Liiga - Women,Finland,Soccer,1,476
-10009,"2. Liga",Austria,Soccer,1,449
-11007,Algerian Cup,Algeria,Soccer,1,445
-10261,Eredivisie,Netherlands,Soccer,1,506
-11331,Vysshaya Liga,Belarus,Soccer,1,453
-11042,Premier League,Kazakhstan,Soccer,1,552
-11271,Cupa Moldova,Moldova,Soccer,1,583
-10164,Oberliga Rheinland-Pfalz,Germany,Soccer,1,479
-10055,Candango - Serie A,Brazil,Soccer,1,458
-10114,Premier League 2,England,Soccer,1,474
-10944,Premier League,Singapore,Soccer,1,558
-11291,U21 Allsvenskan,Sweden,Soccer,1,533
-10329,Slovensky Pohar,Slovakia,Soccer,1,529
-10224,Serie B,Italy,Soccer,1,494
-10157,Regionalliga Southwest,Germany,Soccer,1,479
-10221,National League,Israel,Soccer,1,493
-10386,U19 Elit A,Turkiye,Soccer,1,538
-10166,Premier League,Ghana,Soccer,1,480
-11606,Macedonia Cup,North Macedonia,Soccer,1,510
-10252,Premier League,Malta,Soccer,1,504
-10199,UEFA Champions League,International,Soccer,1,490
-10395,MLS Preseason,USA,Soccer,1,543
-11350,U21 Premier League International Cup,International,Soccer,1,490
-10279,"3rd Division Group 1",Norway,Soccer,1,511
-10198,Arnold Clark Cup - Women,International,Soccer,1,490
-10201,AFC Champions League,International,Soccer,1,490
-10268,NPFL,Nigeria,Soccer,1,508
-10028,Coupe U21 Pro League,Belgium,Soccer,1,454
-10342,Primera Federacion,Spain,Soccer,1,532
-11217,Kazakhstan Cup,Kazakhstan,Soccer,1,552
-11222,Super Cup,Argentina,Soccer,1,447
-11346,CONCACAF Nations League,International,Soccer,1,490
-10044,Copa do Nordeste,Brazil,Soccer,1,458
-10119,FA Cup - Women,England,Soccer,1,474
-11208,Roraimense,Brazil,Soccer,1,458
-10172,U19 Super League,Greece,Soccer,1,482
-10029,Division Profesional,Bolivia,Soccer,1,455
-10202,Recopa Sudamericana,International,Soccer,1,490
-10297,Liga Portugal,Portugal,Soccer,1,519
-10126,Veikkausliiga,Finland,Soccer,1,476
-10217,Azadegan League,Iran,Soccer,1,491
-11410,National League,New Zealand,Soccer,1,551
-10016,Premier League,Azerbaijan,Soccer,1,450
-10912,Serie D - Girone E,Italy,Soccer,1,494
-10267,Primera Division,Nicaragua,Soccer,1,507
-10358,Tercera Federacion - Group 16,Spain,Soccer,1,532
-10390,Arabian Gulf League,United Arab Emirates,Soccer,1,541
-10117,Southern Football League -Premier Division Central,England,Soccer,1,474
-11285,Coupe de France - Women,France,Soccer,1,477
-10341,Primera Division Women,Spain,Soccer,1,532
-10333,"2. Liga",Slovenia,Soccer,1,530
-10308,Liga 2,Romania,Soccer,1,522
-11338,Kvindeligaen - Women,Denmark,Soccer,1,470
-10331,"1. League Women",Slovakia,Soccer,1,529
-11325,Primera D Metropolitana,Argentina,Soccer,1,447
-10270,Championship,Northern Ireland,Soccer,1,509
-10195,Cyprus Women Cup,International,Soccer,1,490
-10012,Regionalliga Centre,Austria,Soccer,1,449
-10316,Division 1,Saudi Arabia,Soccer,1,526
-11335,Brasileiro Serie B,Brazil,Soccer,1,458
-11339,Danmarksserien,Denmark,Soccer,1,470
-12002,Paulista - Women,Brazil,Soccer,1,458
-10278,"2nd Division Group 1",Norway,Soccer,1,511
-10343,Tercera Federacion - Group 1,Spain,Soccer,1,532
-10181,"1. deild",Iceland,Soccer,1,487
-10906,Presidents Cup,United Arab Emirates,Soccer,1,541
-11310,FA Cup,Republic of Korea,Soccer,1,521
-11618,Pervaya Liga,Kazakhstan,Soccer,1,552
-10938,Kakkonen - Group B,Finland,Soccer,1,476
-10378,Thai League 2,Thailand,Soccer,1,536
-10211,U20 Africa Cup of Nations,International,Soccer,1,490
-11125,First League,Kosovo,Soccer,1,499
-11355,League Cup,Northern Ireland,Soccer,1,509
-10918,Crown Prince Cup,Kuwait,Soccer,1,500
-10075,Liga de Ascenso - Clausura,Costa Rica,Soccer,1,466
-10241,Super Cup,Japan,Soccer,1,497
-11045,Copa do Brasil,Brazil,Soccer,1,458
-10212,U17 CONCACAF Championship,International,Soccer,1,490
-11308,Africa Cup of Nations - Qualification,International,Soccer,1,490
-10922,Copa Libertadores,International,Soccer,1,490
-11500,Brasileiro Serie D,Brazil,Soccer,1,458
-10149,Bremen-Liga,Germany,Soccer,1,479
-11163,WE League - Women,Japan,Soccer,1,497
-10033,Carioca,Brazil,Soccer,1,458
-11030,NWSL Challenge Cup,USA,Soccer,1,543
-10152,DFB Pokal Women,Germany,Soccer,1,479
-10389,Premier League,Ukraine,Soccer,1,540
-11602,Carioca - Serie A2,Brazil,Soccer,1,458
-10301,Campeonato Nacional - Women,Portugal,Soccer,1,519
-11227,Slovenia Cup,Slovenia,Soccer,1,530
-11992,U17 European Championship,International,Soccer,1,490
-10074,Primera Division - Clausura,Costa Rica,Soccer,1,466
-10225,Coppa Italia,Italy,Soccer,1,494
-11700,Segunda Division,Peru,Soccer,1,516
-10339,Copa del Rey,Spain,Soccer,1,532
-10175,Premier League,"Hong Kong, China",Soccer,1,485
-10022,Super Cup,Belarus,Soccer,1,453
-10209,U19 European Championship - Qualification,International,Soccer,1,490
-10350,Tercera Federacion - Group 8,Spain,Soccer,1,532
-10245,Kosovo FA Cup,Kosovo,Soccer,1,499
-10030,Premijer Liga,Bosnia & Herzegovina,Soccer,1,456
-10941,National League,Myanmar,Soccer,1,559
-11334,Brasileiro Serie A,Brazil,Soccer,1,458
-11341,"1st deild",Faroe Islands,Soccer,1,584
-10282,"3rd Division Group 4",Norway,Soccer,1,511
-10115,Isthmian League - Pr. Div,England,Soccer,1,474
-11348,U21 European Championship,International,Soccer,1,490
-12005,U17 European Women's Championship,International,Soccer,1,490
-10293,I Liga,Poland,Soccer,1,518
-10334,Premier Soccer League,South Africa,Soccer,1,531
-10359,Tercera Federacion - Group 17,Spain,Soccer,1,532
-10008,Bundesliga,Austria,Soccer,1,449
-10184,"2. deild",Iceland,Soccer,1,487
-10070,Primera B,Colombia,Soccer,1,464
-11608,Amapaense,Brazil,Soccer,1,458
-11215,Cup,Iceland,Soccer,1,487
-11027,KNVB beker - Women,Netherlands,Soccer,1,506
-10380,Super Lig,Turkiye,Soccer,1,538
+10402,Super League,Zambia,Soccer,1,547
+11535,Mineiro - Modulo II,Brazil,Soccer,1,458
 10945,Pinatar Cup - Women,International,Soccer,1,490
-10355,Tercera Federacion - Group 13,Spain,Soccer,1,532
-10113,Northern Premier League - Premier Division,England,Soccer,1,474
-10896,U19 Championship,Portugal,Soccer,1,519
-10306,K-League 2,Republic of Korea,Soccer,1,521
-10363,Division 2 - Norrland,Sweden,Soccer,1,533
-11461,Premier League - Women,Russia,Soccer,1,523
-10899,Liga Femenina,Colombia,Soccer,1,464
-10078,Prva NL,Croatia,Soccer,1,467
-11890,Chinese Super League,China,Soccer,1,548
-11603,Catarinense - Serie B,Brazil,Soccer,1,458
-11035,Segunda Division,El Salvador,Soccer,1,473
-10321,Challenge Cup,Scotland,Soccer,1,527
-10084,FNL,Czech Republic,Soccer,1,469
-10349,Tercera Federacion - Group 7,Spain,Soccer,1,532
-10213,UEFA Youth League,International,Soccer,1,490
-10189,Indian Super League,India,Soccer,1,488
-10271,Irish Cup,Northern Ireland,Soccer,1,509
+12091,China League 2,China,Soccer,1,548
+11417,V-League 2,Vietnam,Soccer,1,545
+10147,Women Bundesliga,Germany,Soccer,1,479
+11117,Virsliga,Latvia,Soccer,1,553
+10009,2. Liga,Austria,Soccer,1,449
+10204,UEFA Europa League,International,Soccer,1,490
+9993,Liga Profesional,Argentina,Soccer,1,447
+10055,Candango - Serie A,Brazil,Soccer,1,458
+10240,J.League,Japan,Soccer,1,497
+11353,Super Liga,Moldova,Soccer,1,583
+10922,Copa Libertadores,International,Soccer,1,490
+10087,1. Liga - Women,Czech Republic,Soccer,1,469
+10007,South Australia NPL - Women,Australia,Soccer,1,448
 10232,Serie A - Women,Italy,Soccer,1,494
-11101,Rock Cup,Gibraltar,Soccer,1,481
-10128,Liigacup,Finland,Soccer,1,476
-10133,Division 1 Women,France,Soccer,1,477
-11313,Youth League,Russia,Soccer,1,523
-9989,Ligue 2,Algeria,Soccer,1,445
-10999,Superliga,Kosovo,Soccer,1,499
-10101,Premier League,England,Soccer,1,474
-10353,Tercera Federacion - Group 11,Spain,Soccer,1,532
-11421,USL W League,USA,Soccer,1,543
-10027,Super League - Women,Belgium,Soccer,1,454
-11418,Vietnam Cup,Vietnam,Soccer,1,545
-10200,FIFA Club World Cup,International,Soccer,1,490
-12003,OFC Champions League,International,Soccer,1,490
-10086,U19 1st Division,Czech Republic,Soccer,1,469
-10919,Girabola,Angola,Soccer,1,556
-11703,A-Junioren-Bundesliga - Sonderspielrunde,Germany,Soccer,1,479
-10274,Eliteserien,Norway,Soccer,1,511
+10050,Potiguar,Brazil,Soccer,1,458
+10098,Egypt Cup,Egypt,Soccer,1,472
+10359,Tercera Federacion - Group 17,Spain,Soccer,1,532
+11890,Chinese Super League,China,Soccer,1,548
+10062,Copa Alagoas,Brazil,Soccer,1,458
+10184,2. deild,Iceland,Soccer,1,487
+10312,Coppa Titano,San Marino,Soccer,1,525
+10123,Super Cup,Estonia,Soccer,1,475
+10015,Eliteliga Voralberg,Austria,Soccer,1,449
+10164,Oberliga Rheinland-Pfalz,Germany,Soccer,1,479
+10189,Indian Super League,India,Soccer,1,488
+10349,Tercera Federacion - Group 7,Spain,Soccer,1,532
+10375,Super League - Women,Switzerland,Soccer,1,534
+10008,Bundesliga,Austria,Soccer,1,449
+10157,Regionalliga Southwest,Germany,Soccer,1,479
+10906,Presidents Cup,United Arab Emirates,Soccer,1,541
+11540,League Cup,United Arab Emirates,Soccer,1,541
+10937,Kakkonen - Group A,Finland,Soccer,1,476
+10129,Ligue 1,France,Soccer,1,477
 10295,II Liga,Poland,Soccer,1,518
-10346,Tercera Federacion - Group 4,Spain,Soccer,1,532
-10066,Elite One,Cameroon,Soccer,1,461
-11614,Indian Super Cup,India,Soccer,1,488
-11623,U20 Carioca - Serie A,Brazil,Soccer,1,458
-10159,Regionalliga Bavaria,Germany,Soccer,1,479
-9985,Kategoria Superiore,Albania,Soccer,1,444
-11419,Premier Soccer League,Zimbabwe,Soccer,1,586
-10051,Mato-Grossense,Brazil,Soccer,1,458
-11048,U19 Friendly Games,International,Soccer,1,490
-11699,"1.Liga",Latvia,Soccer,1,553
-10057,Campeonato Tocantinense,Brazil,Soccer,1,458
-10269,Premiership,Northern Ireland,Soccer,1,509
-11330,Azerbaijan Cup,Azerbaijan,Soccer,1,450
-11272,U19,Ukraine,Soccer,1,540
+10284,3rd Division Group 6,Norway,Soccer,1,511
+10345,Tercera Federacion - Group 3,Spain,Soccer,1,532
+10323,Scottish Cup,Scotland,Soccer,1,527
+10245,Kosovo FA Cup,Kosovo,Soccer,1,499
+11313,Youth League,Russia,Soccer,1,523
+10977,World Cup Qualification - Women - Inter-Confederation Playoffs,International,Soccer,1,490
+10138,2nd Bundesliga,Germany,Soccer,1,479
+10935,Copa Colombia,Colombia,Soccer,1,464

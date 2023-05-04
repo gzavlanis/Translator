@@ -2,35 +2,35 @@
 
 import openai
 from configparser import ConfigParser
-import numpy as np
-import pandas as pd
 
 description = """
-    In this session I am going to send you data that will include countries and regions.\n
-    I will also send you data that will include competitions from all over the world in common sports.\n 
-    Finally, I will send you data with names from athletes and athletic teams on these sports.\n
-    What I want you to do, is to translate these data from English to the language that I will write to you in my message.\n
-    It is possible to be included competitions in a different language than English. In this case I want you to write the translation from the language you read in the language I ask you to.\n
-    It is also possible to be included countries with the abbreviation of their names, for example 'UAE'. In this case I want you to write the full country name translated in the language I ask you to.\n
+    In this session I am going to send you JSON data that will include countries and regions.
+    I will also send you JSON data that will include competitions from all over the world in common sports.
+    Finally, I will send you JSON data with names from athletes and athletic teams for these sports.
+    All the data that I will send to you from now on will concern countries, regions, athletic teams, athletes, sports and sport competitions.
+    What I want you to do, is to translate these data to the language that I will write to you in my message.
+    If the data you take include competitions and athletes or teams from all over the world, make the phonetic translation of them.
+    Use the alphabet of the asked language to rewrite the data if includes competitions, sport teams of athletes' names.
+    For example if I send you a competition like 'Primera Division' the translation will be 'Πριμέρα Ντιβιζιόν'.
+    Use the same logic for each language that you will be asked to translate.
 """
+
 model_engine = "text-davinci-003"
-tokens = 1200
-temperature = 0.4
+tokens = 3100
+temperature = 0.5
 
 # take api key from .ini file
 config = ConfigParser()
 config.read('openai.ini')
 openai.api_key = config.get('openai', 'api_key')
 
-def translator(text, target_language):
-    prompt = f"Translate '{text}' to {target_language}"
-    response = openai.Completion.create(engine = model_engine, prompt = prompt, max_tokens = tokens, n = 1, stop = None, temperature = temperature)
-    return response.choices[0].text.strip() # extract translation
+def translator(json_strings, target_language):
+    conversation = openai.Completion.create(engine = model_engine, prompt = description, max_tokens = tokens, n = 1, stop = None, temperature = temperature)
+    print(conversation.choices[0].text.strip())
 
-def engine(data, target_language):
-    translations = np.array([])
-    for i in data:
-        translation = translator(i, target_language)
-        translations = np.append(translations, translation)
-
-    return pd.DataFrame(translations, columns = ['Region'])
+    translated_jsons = []
+    for json_string in json_strings:
+        prompt = f"Translate the following JSON data'{json_string}' to {target_language}. Your response will be in JSON format."
+        response = openai.Completion.create(engine = model_engine, prompt = prompt, max_tokens = tokens, n = 1, stop = None, temperature = temperature)
+        translated_jsons.append(response.choices[0].text.strip())
+    return translated_jsons
