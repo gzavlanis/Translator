@@ -10,14 +10,17 @@ description = """
     All the data that I will send to you from now on will concern countries, regions, athletic teams, athletes, sports and sport competitions.
     What I want you to do, is to translate these data to the language that I will write to you in my message.
     If the data you take include competitions and athletes or teams from all over the world, make the phonetic translation of them.
-    Use the alphabet of the asked language to rewrite the data if includes competitions, sport teams of athletes' names.
-    For example if I send you a competition like 'Primera Division' the translation will be 'Πριμέρα Ντιβιζιόν'.
+    Use the alphabet of the asked language to rewrite the data if includes competitions, sport teams or athletes' names.
+    For countries and regions use the accurate translation in the language I write in my message.
+    For example if I send you a competition like 'Primera Division' the translation will be 'Πριμέρα Ντιβιζιόν' if the asked translation language was Greek.
     Use the same logic for each language that you will be asked to translate.
+    Be careful with the translation of countries and regions when the name contains only a country name.
+    I need the actual translation of the country name in the requested language.
 """
 
 model_engine = "text-davinci-003"
 tokens = 3100
-temperature = 0.5
+temperature = 0.4
 
 # take api key from .ini file
 config = ConfigParser()
