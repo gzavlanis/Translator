@@ -2,7 +2,7 @@ import psycopg2
 from config import config
 from imports import importRegions, importCompetitions, importParticipants
 from exports import generator
-from model import translator
+from model import regions_translator, competitions_translator, participants_translator
 
 """ Import CSV files """
 # regions = importRegions("data/regions.csv")
@@ -23,17 +23,17 @@ persian = "Persian"
 # regionsGR = translator(regions, greek)
 # regionsPE = translator(regions, persian)
 
-# soccerCompetitionsGR = translator(soccerCompetitions, greek)
-# soccerCompetitionsPE = translator(soccerCompetitions, persian)
+# soccerCompetitionsGR = competitions_translator(soccerCompetitions, greek)
+# soccerCompetitionsPE = competitions_translator(soccerCompetitions, persian)
 
-# basketballCompetitionsGR = translator(basketballCompetitions, greek)
-# basketballCompetitionsPE = translator(basketballCompetitions, persian)
+# basketballCompetitionsGR = competitions_translator(basketballCompetitions, greek)
+# basketballCompetitionsPE = competitions_translator(basketballCompetitions, persian)
 
-tennisCompetitionsGR = translator(tennisCompetitions, greek)
-tennisCompetitionsPE = translator(tennisCompetitions, persian)
+tennisCompetitionsGR = competitions_translator(tennisCompetitions, greek)
+tennisCompetitionsPE = competitions_translator(tennisCompetitions, persian)
 
-# soccerParticipantsGR = engine(soccerParticipants, greek)
-# soccerParticipantsPE = engine(soccerParticipants, persian)
+# soccerParticipantsGR = translator(soccerParticipants, greek)
+# soccerParticipantsPE = translator(soccerParticipants, persian)
 
 # basketballParticipantsGR = engine(basketballParticipants, greek)
 # basketballParticipantsPE = engine(basketballParticipants, persian)
