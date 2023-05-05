@@ -5,7 +5,7 @@
 
 #### Please, have in mind that you have to install all the required packages, included inside the requirements.txt file. The most important is 'openai' because gives you the ability to use chatGPT API.
 
-#### To to that, run in terminal, inside the project folder the following: 
+#### To do that, run in terminal, inside the project folder the following: 
 
 Windows:
 

@@ -9,9 +9,9 @@ from model import regions_translator, competitions_translator, participants_tran
 
 # soccerCompetitions = importCompetitions("data/competitions_soccer.csv")
 # basketballCompetitions = importCompetitions("data/competitions_basketball.csv")
-tennisCompetitions = importCompetitions("data/competitions_tennis.csv")
+# tennisCompetitions = importCompetitions("data/competitions_tennis.csv")
 
-# soccerParticipants = importParticipants("data/participants_soccer.csv")
+soccerParticipants = importParticipants("data/participants_soccer.csv")
 # basketballParticipants = importParticipants("data/participants_basketball.csv")
 # tennisParticipants = importParticipants("data/participants_tennis.csv")
 
@@ -29,11 +29,11 @@ persian = "Persian"
 # basketballCompetitionsGR = competitions_translator(basketballCompetitions, greek)
 # basketballCompetitionsPE = competitions_translator(basketballCompetitions, persian)
 
-tennisCompetitionsGR = competitions_translator(tennisCompetitions, greek)
-tennisCompetitionsPE = competitions_translator(tennisCompetitions, persian)
+# tennisCompetitionsGR = competitions_translator(tennisCompetitions, greek)
+# tennisCompetitionsPE = competitions_translator(tennisCompetitions, persian)
 
-# soccerParticipantsGR = translator(soccerParticipants, greek)
-# soccerParticipantsPE = translator(soccerParticipants, persian)
+soccerParticipantsGR = participants_translator(soccerParticipants, greek)
+soccerParticipantsPE = participants_translator(soccerParticipants, persian)
 
 # basketballParticipantsGR = engine(basketballParticipants, greek)
 # basketballParticipantsPE = engine(basketballParticipants, persian)
@@ -48,9 +48,9 @@ tennisCompetitionsPE = competitions_translator(tennisCompetitions, persian)
 
 # generator(basketballCompetitions, basketballCompetitionsGR, basketballCompetitionsPE, 'data/competitions_basketball_translated.csv')
 
-generator(tennisCompetitions, tennisCompetitionsGR, tennisCompetitionsPE, 'data/competitions_tennis_translated.csv')
+# generator(tennisCompetitions, tennisCompetitionsGR, tennisCompetitionsPE, 'data/competitions_tennis_translated.csv')
 
-# generator(soccerParticipants, soccerParticipantsGR, soccerParticipantsPE, 'data/participants_soccer_translated.csv')
+generator(soccerParticipants, soccerParticipantsGR, soccerParticipantsPE, 'data/participants_soccer_translated.csv')
 
 # generator(basketballParticipants, basketballParticipantsGR, basketballParticipantsPE, 'data/participants_basketball_translated.csv')
 

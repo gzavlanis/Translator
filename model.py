@@ -29,7 +29,7 @@ def regions_translator(json_strings, target_language):
 def competitions_translator(json_strings, target_language):
     translated_jsons = []
     for json_string in json_strings:
-        prompt = f"Translate these JSON data'{json_string}' to {target_language}, using the alphabetical phonetic translation system. Write only the alphabetical phonetic representation of the words and not the actual translation. Your response will be in JSON format."
+        prompt = f"Translate these JSON data'{json_string}' to {target_language}, using the alphabetical phonetic translation system. Write only the phonetic representation of the words. Not the actual translation. Your response will be in JSON format."
         response = openai.Completion.create(engine = model_engine, prompt = prompt, max_tokens = tokens, n = 1, stop = None, temperature = temperature)
         translated_jsons.append(response.choices[0].text.strip())
         print(translated_jsons)
@@ -38,8 +38,8 @@ def competitions_translator(json_strings, target_language):
 def participants_translator(json_strings, target_language):
     translated_jsons = []
     for json_string in json_strings:
-        message = f"Do phonetic translation for the following JSON data'{json_string}' to {target_language}. Your response will be in JSON format."
-        prompt = f'\n'.join([description_participants, message])
+        prompt = f"Translate these JSON data'{json_string}' to {target_language}, using the alphabetical phonetic translation system. Write only the phonetic representation of the words. Not the actual translation. Use JSON format in your response."
         response = openai.Completion.create(engine = model_engine, prompt = prompt, max_tokens = tokens, n = 1, stop = None, temperature = temperature)
         translated_jsons.append(response.choices[0].text.strip())
+        print(translated_jsons)
     return translated_jsons
