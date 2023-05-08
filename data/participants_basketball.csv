@@ -1,181 +1,1001 @@
-id,name,region,sport,sport_id,region_id
-10504,1. A SKL,Slovenia,Basketball,2,530
-10476,Final Eight,Italy,Basketball,2,494
-10483,LKL,Lithuania,Basketball,2,550
-11318,National A League,Tunisia,Basketball,2,537
-10470,Champions League Americas,International,Basketball,2,490
-11589,Womens National Invitation Tournament,USA,Basketball,2,543
-10478,Serie B,Italy,Basketball,2,494
-11506,Zweite Liga,Austria,Basketball,2,449
-10510,SBL - Women,Sweden,Basketball,2,533
-10515,1. Lig,Turkiye,Basketball,2,538
-10442,BBL-Pokal,Germany,Basketball,2,479
-10415,NBB,Brazil,Basketball,2,458
-10412,Superliga - Women,Austria,Basketball,2,449
-10413,BNXT Belgian League,Belgium,Basketball,2,454
-10450,Urvalsdeild,Iceland,Basketball,2,487
-11764,Campeonato Nacional Liga Feminina,Portugal,Basketball,2,519
-10511,LNA,Switzerland,Basketball,2,534
-10516,TB2L,Turkiye,Basketball,2,538
-11110,NBA Rising Stars,USA,Basketball,2,543
-10997,Cupa Romaniei       ,Romania,Basketball,2,522
-10440,BBL,Germany,Basketball,2,479
-10488,PBA - Governors Cup,Philippines,Basketball,2,517
-10410,NBL1 - East,Australia,Basketball,2,448
-10503,Cup,Slovakia,Basketball,2,529
-10419,WCBA,China,Basketball,2,548
-10522,NBA G League,USA,Basketball,2,543
-10506,Copa del Rey,Spain,Basketball,2,532
-11842,LBL,Latvia,Basketball,2,553
-10426,NBL,Czech Republic,Basketball,2,469
-10498,Premier League Women,Russia,Basketball,2,523
-10490,PLKK,Poland,Basketball,2,518
-10514,Super Lig - Women,Turkiye,Basketball,2,538
-10424,Croatia Cup,Croatia,Basketball,2,467
-11855,KML,Estonia,Basketball,2,475
-10499,KLS,Serbia,Basketball,2,528
-12103,FIBA World Cup,International,Basketball,2,490
-10472,Super League,Israel,Basketball,2,493
-11559,College Basketball Invitational,USA,Basketball,2,543
-10414,1st Division,Bosnia & Herzegovina,Basketball,2,456
-10404,WNBL,Australia,Basketball,2,448
-10497,LNB - Women,Romania,Basketball,2,522
-11556,NCAA Division I National Championship - Women,USA,Basketball,2,543
-11019,Cesky Pohar,Czech Republic,Basketball,2,469
-10900,Cup,Slovenia,Basketball,2,530
-10455,European Championship Qualification,International,Basketball,2,490
-11560,Womens Basketball Invitational,USA,Basketball,2,543
-11200,BNXT League,International,Basketball,2,490
-11109,Big V - Women,Australia,Basketball,2,448
-10517,FBU Superleague,Ukraine,Basketball,2,540
-10465,World Cup Qualification - Europe,International,Basketball,2,490
-10496,Liga Nationala,Romania,Basketball,2,522
-11210,Cup - Women,Romania,Basketball,2,522
-11367,NBL1 West - Women,Australia,Basketball,2,448
-10471,Super League,Iran,Basketball,2,491
-10431,BBL Trophy,England,Basketball,2,474
-10487,BLNO,Norway,Basketball,2,511
-10456,European Championship Qualification - Women,International,Basketball,2,490
-10460,ASEAN Basketball League,International,Basketball,2,490
-10422,Premijer liga,Croatia,Basketball,2,467
-10405,NBL,Australia,Basketball,2,448
-11488,NBB All Star,Brazil,Basketball,2,458
-10445,A1 - Women,Greece,Basketball,2,482
-10406,NBL1 - Central,Australia,Basketball,2,448
-10434,Pro A,France,Basketball,2,477
-11301,NBL1 East - Women,Australia,Basketball,2,448
-10477,Serie A2,Italy,Basketball,2,494
-10427,1. Liga,Czech Republic,Basketball,2,469
-10439,Coupe de France - Women,France,Basketball,2,477
-10428,ZBL,Czech Republic,Basketball,2,469
-10500,Cup,Serbia,Basketball,2,528
-10495,WKBL,Republic of Korea,Basketball,2,521
-11201,Superior Nacional,Puerto Rico,Basketball,2,580
-10463,Europe Cup,International,Basketball,2,490
-10481,W League,Japan,Basketball,2,497
-10494,KBL,Republic of Korea,Basketball,2,521
-11369,NBL1 South - Women,Australia,Basketball,2,448
-10430,BBL,England,Basketball,2,474
-10520,WNBA,USA,Basketball,2,543
-10417,NBL,Canada,Basketball,2,462
-10491,1 Liga,Poland,Basketball,2,518
-10444,A1,Greece,Basketball,2,482
-10407,NBL1 - West,Australia,Basketball,2,448
-10443,Pro A,Germany,Basketball,2,479
-10448,NB I. A - Women,Hungary,Basketball,2,486
-11616,European Ch.ship Women,International,Basketball,2,490
-10927,Super 20,Argentina,Basketball,2,447
-10429,Basketligaen,Denmark,Basketball,2,470
-10948,Top Division 1,Belgium,Basketball,2,454
-10512,Super Lig,Turkiye,Basketball,2,538
-10432,Korisliiga,Finland,Basketball,2,476
-10453,Eurocup,International,Basketball,2,490
-10441,1. DBBL,Germany,Basketball,2,479
-10518,LUB,Uruguay,Basketball,2,542
-10486,NBL,New Zealand,Basketball,2,551
-10409,NBL1 - North,Australia,Basketball,2,448
-10425,Division A,Cyprus,Basketball,2,468
-10461,Balkan League,International,Basketball,2,490
-11400,Big V,Australia,Basketball,2,448
-12004,LNB,Dominican Republic,Basketball,2,594
-10893,Greece Cup,Greece,Basketball,2,482
-11613,SuperLiga,Venezuela,Basketball,2,544
-11319,Club Friendly Games,International,Basketball,2,490
-10501,Extraliga,Slovakia,Basketball,2,529
-11370,Belgium Cup,Belgium,Basketball,2,454
-11106,Basketball Africa League,International,Basketball,2,490
-10485,BNXT Dutch League,Netherlands,Basketball,2,506
-10418,Liga Nacional,Chile,Basketball,2,463
-10469,Estonian-Latvian League,International,Basketball,2,490
-10482,First Division,Lebanon,Basketball,2,501
-10421,P League,Chinese Taipei,Basketball,2,549
-11498,Int. Friendly Games,International,Basketball,2,490
-11368,NBL1 North - Women,Australia,Basketball,2,448
-10907,Cup,Lithuania,Basketball,2,550
-10914,Eurocup - Women,International,Basketball,2,490
-10474,Serie A,Italy,Basketball,2,494
-10438,LFB - Women,France,Basketball,2,477
-10411,Superliga,Austria,Basketball,2,449
-10458,United League,International,Basketball,2,490
-10479,B.League,Japan,Basketball,2,497
-11499,NCAA Division II National Championship,USA,Basketball,2,543
-11414,Magyar Kupa,Hungary,Basketball,2,486
-10459,Intercontinental Cup,International,Basketball,2,490
-10509,SBL,Sweden,Basketball,2,533
-10464,Champions League,International,Basketball,2,490
-11854,U19 World Championship Women,International,Basketball,2,490
-10446,Elite League,Greece,Basketball,2,482
-11366,NBL1 Central - Women,Australia,Basketball,2,448
-10437,Coupe de France,France,Basketball,2,477
-10489,PLK,Poland,Basketball,2,518
-10508,Liga Femenina,Spain,Basketball,2,532
-10435,Leaders Cup LNB,France,Basketball,2,477
-11031,LBF - Women,Brazil,Basketball,2,458
-10451,IBL,Indonesia,Basketball,2,489
-11373,Cup - Women,Turkiye,Basketball,2,538
-11853,U19 World Championship,International,Basketball,2,490
-10467,World Cup Qualification - Americas,International,Basketball,2,490
-11028,International Friendly Games - Women,International,Basketball,2,490
-11844,Superettan,Sweden,Basketball,2,533
-10480,B2.League,Japan,Basketball,2,497
-11171,CBA,China,Basketball,2,548
-10452,Euroleague,International,Basketball,2,490
-11688,1 Division,Finland,Basketball,2,476
-10492,Cup,Poland,Basketball,2,518
-10493,LPB,Portugal,Basketball,2,519
-10521,NBA All Star Game,USA,Basketball,2,543
-11507,Liga Mayor de Baloncesto,El Salvador,Basketball,2,473
-10423,A1 Liga Women,Croatia,Basketball,2,467
-11599,Libobasquet,Bolivia,Basketball,2,455
-10403,LNB,Argentina,Basketball,2,447
-10457,Euroleague Women,International,Basketball,2,490
-11371,Cup - Women,Italy,Basketball,2,494
-10475,A1 Women,Italy,Basketball,2,494
-10466,World Cup Qualification - Africa,International,Basketball,2,490
-10473,National League,Israel,Basketball,2,493
-10436,Pro B,France,Basketball,2,477
-10519,NBA,USA,Basketball,2,543
-11687,CBA - All Star Game,China,Basketball,2,548
-11495,WBL - Women,Israel,Basketball,2,493
-10967,ABA Liga 2,International,Basketball,2,490
-10462,Alpe Adria Cup,International,Basketball,2,490
-10454,Liga ABA,International,Basketball,2,490
-10507,LEB Oro,Spain,Basketball,2,532
-10484,NKL,Lithuania,Basketball,2,550
-11553,NCAA Division I National Championship,USA,Basketball,2,543
-10468,World Cup Qualification - Asia & Oceania,International,Basketball,2,490
-10420,SBL,Chinese Taipei,Basketball,2,549
-11218,Americup Qualification,International,Basketball,2,490
-10408,NBL1 - South,Australia,Basketball,2,448
-10513,Türkiye Kupasi,Turkiye,Basketball,2,538
-11013,State Cup,Israel,Basketball,2,493
-10416,NBL,Bulgaria,Basketball,2,459
-11845,WNBA Preseason,USA,Basketball,2,543
-11372,Serie A2 - LNP Cup,Italy,Basketball,2,494
-11509,Cup,Bulgaria,Basketball,2,459
-10447,NB I. A,Hungary,Basketball,2,486
-10449,Urvalsdeild - Women,Iceland,Basketball,2,487
-10433,Korisliiga - Women,Finland,Basketball,2,476
-11558,National Invitation Tournament,USA,Basketball,2,543
-10502,Extraliga - Women,Slovakia,Basketball,2,529
-10505,Liga ACB,Spain,Basketball,2,532
+"name"
+Bulleen Boomers
+Western Kentucky Lady Toppers
+BK Opava B
+Yamagata Wyverns
+Taiwan Beer
+Kk Metalac
+Bulgaria
+Slovenia
+CB San Pablo Burgos
+Elitzur Kiryat Atta
+Gaziantep Genclik
+Orlandina Basket
+IK Eos
+JL Bourg Basket
+Aranmare Akita
+Basket Poznan
+Benedetto Xiv Cento
+BC Mahdia
+Konyaspor
+Qingdao Eagles
+Nazilli Belediye
+Hobart Chargers
+Baskonia Vitoria-Gasteiz
+Southern Utah Thunderbirds
+CD Universidad Catolica De Santiago
+New Taipei Kings
+Bakery Basket Piacenza
+North Dakota State Bison
+Sunshine Coast Phoenix
+Achilleas Kaimakliou
+Waverley Falcons
+North Macedonia
+New York Liberty
+Portugal
+BK Loko Trutnov
+Morgan State Bears
+Turkiye
+USK Prague
+Drake Bulldogs
+Donar Groningen
+Southern Tigers
+Kagawa Five Arrows
+Kataja Basket Joensuu
+BC Siauliai
+Mets de Guaynabo
+Duquesne Dukes
+Katarzynki Torun
+Austria
+USK Prague B
+Creighton Bluejays
+Panathlitikos SF Sykeon
+Lugano Tigers
+Sodertalje BBK
+Ontario Clippers
+Calero Potosi
+UNC Asheville Bulldogs
+Nunawading Spectres
+Texas Longhorns
+Saarlouis Royals
+Virtus Pozzuoli
+China
+Youngstown State Penguins
+Istanbul Efendileri
+Central Districts Lions
+Virginia Tech Hokies
+Gecit Spor
+BC Spartak Pleven
+Louisiana Ragin' Cajuns
+Keysborough
+Antalya Gunesi
+Switzerland
+Kent State Golden Flashes
+Bnot Hertzeliya
+Ankaragucu Mamak Belediyesi
+Maccabi Haifa
+Keilor Thunder
+Panathinaikos BC
+Promitheas Patras BC
+Caledonia Gladiators
+UC Irvine Anteaters
+Panama
+Dinamo Sassari
+CD Universidad De Concepcion
+UMF Tindastoll
+Hogsbo Basket
+Hapoel Jerusalem
+CD Estela
+Sigortam.net
+Harem Spor
+KB Peja
+Mckendree Bearcats
+Vienna D.C. Timberwolves
+Csu Rookies Oradea
+Saint Vallier
+Hermine Nantes Basket
+Santiagueno BC
+Stephen F. Austin Ladyjacks
+Creighton Bluejays
+Sunbury Jets
+Ball State Cardinals
+Pas Giannina
+Libertas Livorno
+Bahamas
+Ironi Naharia
+BAM Poprad
+Etoile Angers Basket
+Kk Bosco Zagreb
+Rice Owls
+CBA North All-Stars
+Legnano Knights
+Royal IV Brussels
+Grand Rapids Gold
+Eisvogel Freiburg
+Fairleigh Dickinson Knights
+Long Beach State Beach
+Aisin Aw Wings
+SBK Samorin
+Bnei Herzliya Basket
+KK Cibona
+Montana State Bobcats
+Sacred Heart Pioneers
+UAB Blazers
+BC Apollon Limassol
+UMASS Minutewomen
+BC Kolossos Rhodes
+Pallacanestro Mantovana
+BC Levski
+Dandenong Rangers
+Artland Dragons
+Duke Blue Devils
+Mercyhurst Lakers
+AEO Proteas Voulas
+CB Cojute
+KK Dinamo Zagreb
+CB Estudiantes
+Montenegro
+CEB Puerto Montt
+Mazeikiai M Basket
+Japan
+BC Novy Jicin
+Italy
+Uniao Sportiva
+Nika Syktyvkar
+San Francisco Dons
+Anadolu Efes SK
+Vefa 1908
+Petro de Luanda
+APOP Paphos
+Dallas Mavericks
+Timplados Hotshots
+Beirut SC
+CS Municipal Galati
+Brussels Basketball
+Arkansas Razorbacks
+Ovarense Basquetebol
+Kk Bosco
+Leuven Bears
+Club Trouville
+Busan BNK Sum
+Newcastle Falcons
+Northern Arizona Lumberjacks
+Bima Perkasa Jogja
+BC Telsiai
+Landerneau Bretagne Basket
+Basketball Lowen Braunschweig
+Slovakia
+KP Brno
+Stal Ostrow Wielkopolski
+Camberwell Dragons
+Hapoel Holon BC
+New Zealand Breakers
+Asa Koroivos
+Skk Polonia Warszawa
+Olympiakos Pireaus
+Indiana Fever
+Dinamo Novosibirsk
+Geelong Supercats
+Mattersburg Rocks
+Sandringham Sabres
+AEL Limassol BC
+BC Beroe SZ
+Ir Reykjavik
+Nuremberg Falcons BC
+Rutgers Scarlet Knights
+Sam Basket Massagno
+Maryland Terrapins
+BC Minsk
+Greece
+CD AB Temuco
+Diamond Valley Eagles
+Milwaukee Bucks
+Kansas Jayhawks
+BK Opava
+Altiri Chiba
+Wake Forest Demon Deacons
+Elachem Vigevano 1955
+USC Trojans
+BC Zaporizhya
+PS Karlsruhe Lions
+Bentley Falcons
+New Orleans Pelicans
+Tarleton State Texans
+Manly Warringah Sea Eagles
+Boraas Basket
+Michigan Wolverines
+Basket Golfo Piombino
+Keravnos Strovolou Nicosia
+Bankstown Bruins
+Wonju DB Promy
+Pato Basquete
+Elan Bearnais Pau-Lacq-Orthez
+Slovenia
+Woodville Warriors
+Notre Dame Fighting I.
+Utah Valley Wolverines
+USC Trojans
+Japan
+SKS Starogard Gdanski
+Baloncesto Leganes
+South Sudan
+Willetton Tigers
+Hapoel Eilat
+Iceland
+BC Andorra
+Israel
+VBW Cekk Cegled
+Nanterre 92
+Perth Redbacks
+Egypt
+San Jose State Spartans
+MKS Start Lublin II
+New Basket Brindisi
+Skyliners Frankfurt
+Zenit Saint Petersburg
+Nidaros Jets
+Hobart Chargers
+New Zealand
+Pallacanestro Fiorenzuola
+Emmanuel Lions
+Kaposvari KK
+Kawasaki Brave Thunders
+Spirou Charleroi B
+Finland
+CA Goes
+Norths Bears
+Cambodia
+Maccabi Tel-Aviv
+Hottur
+Akronos Moncalieri
+Jamestown Jackals
+Beijing Ducks
+Basketball Nymburk
+BC Nevezis Kedainiai
+Indiana Pacers
+Estonia
+Urunday Universitario
+CS Municipal Targu Mures
+Toros De Aragua
+South West Metro Pirates
+Penrith Panthers
+Louisville Cardinals
+Kennesaw State Owls
+Manawatu Jets
+Fantasmas San Vicente
+Colorado State Rams
+Southern University Jaguars
+Yale Bulldogs
+AS Ramat Hasharon
+Virginia Union Panthers
+Bkg-Prima
+Logan Thunder
+Albacete Basket
+Czech Republic
+UCAM Murcia
+Metapan BC
+Bumi Borneo Basketball Pontianak
+Upper Austrian Ballers
+Missouri St Louis Tritons
+Lander Bearcats
+KK Gorica
+Seyhan Belediyespor
+USA
+BC Polkowice
+Kangoeroes Basket Mechelen
+Shanxi Xing Rui Flame
+Atenas Cordoba
+Maccabi Rehovot
+Basket Brno
+Hba-Marsky
+Hubner Nyiregyhaza BS
+China
+BK Amager
+Pallacanestro Sala Consilina
+Hornsby Spiders
+Team Lebron
+Mes Kerman
+Obras Sanitarias
+Wis Green Bay Phoenix
+France
+Holbaek-Stenhus
+Joondalup Wolves
+London Lightning
+Southern Districts Spartans
+Centauros de Portuguesa
+Quimsa Santiogo Del Estero
+JS Menzah
+KK Triglav Kranj
+San Diego State Aztecs
+Southern Arkansas Muleriders
+Wwu Baskets Munster
+Western Port Steelers
+Ionikos Nikaias BC
+Kk Podgorica
+Lakeland Magic
+Hamburg Towers
+Baylor Bears
+Taipei  Fubon Braves
+Ada Blois Basket 41
+Antibes Sharks
+North Gold Coast Seahawks
+Washington Wizards
+Sichuan Blue Whales
+Akita Northern Happinets
+Bosnia & Herzegovina
+Fortitudo Agrigento
+KOS Celovec
+Maccabi Raanana
+CSD Comunicaciones
+Alba Berlin
+FC Barcelona
+Launceston Tornadoes
+Satya Wacana LBC
+Basket Crema
+Boston Celtics
+Southside Flyers
+Spirou Charleroi
+Phoenix Hagen
+BK SK Umb Banska Bystrica
+LTHcast Mercator
+Bisons Loimaa
+Gussing/Jennersdorf Blackbirds
+Helsinki Seagulls
+BC Guco Lier
+Southern Districts Spartans
+BCM Orli Prostejov
+Sluneta Usti nad Labem
+Maccabi Haifa
+Obradoiro CAB
+Canterbury Rams
+Kangoeroes Mechelen
+Arkansas Little Rock Trojans
+Mississippi State Bulldogs
+Norrkoping Dolphins
+Manisa BBSK
+Mackay Meteorettes
+Panthers Schwenningen
+South West Metro Pirates
+Guinea
+Oregon Ducks
+SC Corinthians Paulista
+Bendigo Spirit
+Iowa State Cyclones
+Vermont Catamounts
+Yoast United
+Arka Gdynia
+Fea Nf Nx
+Lee University Flames
+Ivory Coast
+Northwestern Wildcats
+Graffenstaden
+BK Zabiny Brno
+San-En Neophoenix
+Point Loma Nazarene Sea Lions
+CA Nacional Potosi
+GS Ermis Sximatariou
+BK Liepaja
+Iona Gaels
+Geraldton Buccaneers
+Kk Posusje
+Nadir Gold Istanbul Basket
+Shanghai Sharks
+Lithuania
+Bahcesehir Koleji
+CD Colegio Los Leones
+Grand Canyon Antelopes
+Yokohama B-Corsairs
+BC Oostende
+Sjuharads Basket
+Vanderbilt Commodores
+Leones de Ponce
+Cbc Valladolid
+Hitachi High-Tech Cougars
+Romania
+Okk Novi Pazar
+Bears Academy
+Bankstown Bruins
+KTP Basket Kotka
+Cherno More IG
+Libertadores de Queretaro
+Newcastle Falcons
+Atlanta Dream
+Kapfenberg Bulls
+CD Puente Alto
+Turkiye
+Spain
+Sweden
+Portugal
+Ironi Ness Ziona
+Club Ourense Baloncesto Sad
+Pallacanestro Firenze
+Sluc Nancy Basket
+Cal State San Bernardino Coyotes
+Southern Methodist Mustangs
+Wellington Saints
+Central Oklahoma Bronchos
+Seydou Legacy Athletique Club
+Kauhajoki Karhu Basket
+Ilker Sehri Usak
+Louisiana Tech Lady Techsters
+Fordham Rams
+Neftyanik Omskaya Oblast
+Piratas de La Guaira
+Ningbo Rockets
+Alvik BBK
+Nassjo Basket
+Seattle Storm
+Sichuan Jinqiang Blue Whale
+Guaiqueries De Margarita
+BC Komarno
+Hapoel Rishon Letzion
+Kk FSV Rijeka
+Bali United BC
+Alcorn State Braves
+Uganda
+Zamboanga Valientes
+Rostock Seawolves
+BCM Gravelines Dunkerque
+Cleveland Charge
+LG Sakers
+Southern Tigers
+Lebanon
+Sfs Bcca Neufchateau
+Sportul Studentesc Bucuresti
+Zlatorog Lasko
+Incheon Shinhan Bank S-Birds
+ESB Villeneuve d´Ascq
+Georgia
+Debreceni EAC
+Toyota Antelopes
+Hapoel Haifa BC
+Guangdong Vermilion Birds
+Cameroon
+Newfoundland Rogues
+Ehime Orange Vikings
+Thailand
+Kk Parnu
+Capitanes Ciudad de Mexico
+Czech Republic
+Jordan
+Haneda Vickies
+JDA Dijon Basket
+Serbia
+Batang Pier
+Princeton Tigers
+Bilbao Basket
+Penarol Mar Del Plata
+Troemso Storm
+North Texas Mean Green
+Chicago Bulls
+Vanoli Cremona
+Virtus Eirene Ragusa
+CD Castro
+Antranik
+Baloncesto Fuenlabrada
+Bosnia & Herzegovina
+Asa Jerusalem
+Aomori Wats
+Fjolnir Reykjavik
+Vaqueros de Bayamon
+CAB Madeira
+MBA Moscow
+Virtus Kleb Ragusa
+Gornik Walbrzych
+Florida Gulf Coast Eagles
+Nelson Giants
+Sydney City Comets
+KK TFT Skopje
+Gigantes de Guayana
+Albania
+MKS Pruszkow
+BC Goverla
+Argentino Junin
+Maitland Mustangs
+Titanes del Distrito Nacional
+ASD San Martino di Lupari
+Ullern BK 1
+Cerrado Basquete
+BK Decin
+AL Riyadi Beirut
+Benfica Lisboa
+Art Giants Dusseldorf
+High Point Panthers
+Balkan Botevgrad
+Bambitious Nara
+Drexel Dragons
+Kk Split
+North Adelaide Rockets
+PGE Turow Zgorzelec
+Saga Ballooners
+KD Ilirija
+Virtus Imola
+Alma Academy Jeannois
+CD Tinguiririca SF
+Canada
+Real Sebastiani Rieti
+Haukar
+Mladost Mrkonjic
+Singapore
+EC Pinheiros SP
+Elan Chalon
+BC Jonava
+Diamond Valley Eagles
+Szolnoki Olaj Kk
+Sao Jose dos Campos
+Club Africain
+Cleveland Cavaliers
+Ringwood Hawks
+Washington Mystics
+Cayirova Belediyesi
+US Monastir
+Team Deron
+Cankaya Universitesi
+Limburg United
+Prawira Bandung
+NW Tasmania Thunder
+Tundja Yambol
+Mandurah Magic
+BC Vysocina
+Byblos
+Den Helder Suns
+Apoel Nicosia
+Spartak Subotica
+Sacramento Kings
+Eastern Suns
+BC Enisey Krasnoyarsk
+Basket SKT Ieper 
+Bornova Belediye
+Gimle BK
+Adelaide Lightning
+Saint-Amand Hainaut Basket
+BK Budivelnik
+Forssan Alku
+East Stroudsburg Warriors
+Forestville Eagles
+UMFN Njardvik
+Petrarca Ubp Padova
+Columbia Lions
+UMF Njardvik
+Toledo Glass City
+Karsiyaka Belediyespor
+Ueb Cividale
+Virtus Bologna
+Hapoel Tel-Aviv
+City Oilers
+Jiangsu Dragons
+Iceland
+Nef SK
+Cangrejeros de Santurce
+CD Espanol Osorno
+Basquet Manresa
+Torpan Pojat
+Ballarat Miners
+Giants Leverkusen
+Brixia Basket
+Belfius Mons-Hainaut
+Maryland Terrapins
+Rice Owls
+Gas Eunikos
+Fribourg Olympic
+Ukraine
+Hume City Broncos
+Canberra Capitals
+Mahram Tehran
+UIC Flames
+Buyuk Anadolu Spor
+CSKA Moscow
+Hebraica Macabi
+Carl A-Z Oruro
+Eltham Wildcats
+PTG Sokol Lancut
+Daegu Pegasus
+Imortal BC
+KK Vojvodina
+Eleftheroupoli
+Elizur Ramla
+Ogm Ormanspor
+Corlu Belediyesi
+Jilin Northeast Tigers
+Flammes Carolo Basket
+Bursaspor II
+Clemson Tigers
+Team Fog Naestved
+La Union Formosa
+Shanghai Baoshan Dahua Swordfish
+Suduva Mantinga Marijampole
+SESI / Araraquara
+Zorg En Zekerheid Leiden
+Universo Treviso Basket
+Hills Hornets
+Karamursel Gsk
+Llaneros de Guarico
+Kansas Jayhawks
+Fenerbahce Istanbul
+BC Bipa Odessa
+Bendigo Braves
+Newcastle Eagles
+Kouvottaret
+Rhode Island Rams
+Hogsbo Basket
+Stanford Cardinal
+Padafand Raad Havaei Dezful
+Brisbane Capitals
+Reggio Calabria
+Eneos Sunflowers
+Grises de Humacao
+Lithuania
+Haukar
+Medi Bayreuth
+Luiss Roma
+Teramo A Spicchi
+BC Samara
+Bowling Green Falcons
+Toronto Raptors
+Pakenham
+Electra Nsa
+Jackson State Tigers
+Northside Wizards
+Asd Del Fes Avellino
+Sheffield Sharks
+Barangay Ginebra
+Club Bigua de Villa Biarritz
+Staryi Lutsk-Universitet
+Real Madrid
+Los Angeles Sparks
+Eastern Kentucky Colonels
+San Sebastian Gipuzkoa BC
+College Park Skyhawks
+Hungary
+KR Reykjavik
+IA Larre Borges
+KK Sutjeska Niksic
+North Alabama Lions
+Avtodor Saratov
+Manchester Giants
+Basketbal Olomouc
+Zhejiang Guangsha Lions
+Keflavik
+CA San Lorenzo de Almagro
+JS Kairouan
+Olimpia CSU Brasov
+Willetton Tigers
+Shanxi Loongs
+Basquet Girona
+Japan
+Saint-Chamond
+Baketball Polabi
+Kk Dynamic
+Penn Quakers
+DBB LZ OO
+Hebei
+ACS Universitatea Cluj-Napoca
+Ferris State Bulldogs
+Brillantes de Maracaibo
+Vilnius Rytas-2
+UC Irvine Anteaters
+Lakeside Lightning
+Surrey Scorchers
+Providence Friars
+Kyiv-Basket
+Warwick Senators
+Csm Focsani
+Svendborg Rabbits
+Rosa Radom
+AB Castello
+Perry Lakes Hawks
+AIK Basket
+Iran
+Caxias Do Sul
+Kocaeli Bsb
+Dominican Republic
+Cb Jairis
+Indonesia Patriots
+Embry-Riddle Eagles
+Wilki Morskie Szczecin
+Kongsberg Miners
+Brazil
+Mexico
+France
+Marbo Basket
+Gonzaga Bulldogs
+South Dakota State Jackrabbits
+Bergamo Basket 2014
+Rilski Sportist
+MLP Academics Heidelberg
+North Carolina Tar Heels
+Connecticut Huskies
+Asvel Feminin
+KK Studentski centar Podgorica
+BC Kalev
+Fortaleza Basquete Cearense
+PF Schio
+Tesvikiye SK
+Baerums Verk Defenders
+Herner TC
+KK Bosna Royal Sarajevo
+Randers Cimbria
+Philippines
+CD Maristas Palencia
+Minas Tenis Clube MG
+Polisportiva A. Galli Basket
+Germany
+Konya BBSK
+Virtus Lumezzane
+TFSE-MTK Budapest
+Netherlands
+Ferroviario Beira
+Iraurgi Saski Baloia
+Geas San Sesto Giovanni
+Slovenia U19
+Miami Florida Hurricanes
+Phoenix Mercury
+Spain
+Cyprus
+San Antonio Spurs
+Virtus Cassino
+Serbia
+SIG Strasbourg
+BC Aris Thessaloniki
+Cagdas Bodrum Spor
+BK Snakes Ostrava
+Seoul SK Knights
+Rain or Shine Elasto Painters
+Maccabi Urban Ramat Gan
+BMS Herlev Wolfpack
+Pallacanestro Brescia
+CB Islas Canarias
+Cockburn Cougars
+Chicago Sky
+AS Alsace Gries-Souffel
+Florida State Seminoles
+Cb Almansa
+Copenhagen Basketball
+Quezaltepeque Biomedical
+Texas A&M-Corpus Christi Islanders
+Bursa Uludag
+Keflavik
+Vevey Riviera Basket
+Swarco Raiders Tirol
+CDB Clarinos Tenerife
+Rheinland Lions
+Vermont Catamounts
+Northwest Missouri State Bearcats
+Junior Casale Monferrato
+Pirlo Kufstein Towers
+Raggisolaris Faenza
+Zdravlje Leskovac
+Fujian
+Israel
+Boca Juniors
+SZTE-Szedeak
+Dalia Sportive de Grombalia
+Shaanxi Tianze
+Atleticos de San German
+Slavia Banska Bystrica
+Sanat Mes Rafsanjan
+Italy
+Ezzahra Sport
+Memphis Tigers
+Memphis Tigers
+Georgia Southern Eagles
+Steaua CSM Bucuresti
+Angelo State Rams
+Illawarra Hawks
+Sydney Uni Flames
+Frata Nardo
+Galatasaray
+Denmark
+Sesi/Franca BC SP
+Indiana Hoosiers
+BK 04 AC LB SNV Spisski Rytieri
+ALM Evreux Basket
+Oklahoma Sooners
+Nesibe Aydin
+Washington State Cougars
+Angola
+Derthona Basket
+Finland
+Fukushima Firebonds
+Spojnia Stargard
+Brazil
+Buyukcekmece Basketbol
+Mitteldeutscher BC
+Colorado Buffaloes
+Samsunspor
+Vytis Sakiai
+Kralovsti Sokoli
+BK Nova Hut Ostrava
+Sagesse
+Texas Longhorns
+BC Lietkabelis Panevezys
+Holy Cross Crusaders
+Basket Jesi Academy
+NSH Mountain Gold Timika
+Intercollege Etha Engomis
+IR Reykjavik
+Basket Mestre 1958
+Uni Girona Cb
+Juan Misael Saracho de Oruro
+Saudi Arabia
+Mandurah Magic
+MBK Handlova
+Hapoel Hevel Modiin
+Eastern Mavericks
+LA Clippers
+North Dakota Fighting Hawks
+Frankston Blues
+Pyrinto Tampere
+Real Esteli
+ASVEL Lyon Villeurbanne
+Tulane Green Wave
+Rockingham Flames
+Ockelbo Basket
+Hofstra Pride
+Colgate Raiders
+BBU Salzburg
+BA Centre of Excellence
+Heroes Den Bosch
+Villanova Wildcats
+ACS Sepsi Sic
+Ballarat Miners
+BCMU Arges Pitesti
+Republic of Korea
+Southern Miss Golden Eagles
+Zaglebie Sosnowiec
+BK Lokomotiva Plzen
+TCU Horned Frogs
+KK Zabok
+Atletas Kaunas
+Tallinna Kalev/Tlu
+West Virginia Mountaineers
+Hawaii Rainbow Wahine
+Tuskegee Golden Tigers
+Budapesti Honved SE
+ZKK Medvescak Zagreb
+Evos Thunder Bogor
+Pallacanestro Cantu
+Unifacisa
+Riachuelo de la Rioja
+Lsb RJ / Sodie Doces
+Kk Cedevita Zagreb Junior
+Magnolia Basket
+Northern Michigan Wildcats
+Guaros de Lara
+Vilniaus Stekas
+College BK Borgomanero
+Greece
+Club Nacional
+CSM Ploiesti
+Minnesota State Moorhead Dragons
+Piratas de Quebradillas
+Vimpelin Veto
+ZKK Split
+FCC Baschet Arad
+Fos Provence Basket
+Salem Tigers
+Dewa United Banten
+Southern New Hampshire Penmen
+Colorado Buffaloes
+Apollon Patras
+New Mexico State Aggies
+Fairmont State Fighting Falcons
+UMF Grindavik
+Metros de Santiago
+Niagara Purple Eagles
+Indiana State Sycamores
+Toledo Rockets
+BK Levicki Patrioti
+Himeji Egrets
+Syracuse Stallions
+Winston Salem State Rams
+Santa Tecla BC
+Halle Lions
+Koshigaya Alphas
+Southern Nazarene Crimson Storm
+Santa Cruz Warriors
+Germany
+Virtus Pallacanestro Bologna
+Antwerp Giants B
+Basket Landes
+Kortrijk Spurs 
+Brujos Izalco
+Korihait Uusikaupunki
+Stade Nabeulien
+Tarbes Gespe Bigorre
+Lucentum Alicante
+Hapoel Petah Tikva
+Team Olivinha
+Šentjur
+Anorthosis Famagusta
+Kk Tamis
+Basket Zaragoza 2002
+OGM Ormanspor
+LSU Tigers
+Levanga Hokkaido
+Albany Great Danes
+Hume City Broncos
+San Martin Corrientes
+ACS Kse Targu Secuiesc
+Basket Torino
+Uppsala Basket
+New York Knicks
+Belarus
+Kumamoto Volters
+Kazakhstan
+Future Team Steiermark
+Csm Targu Mures
+Gernika Kesb
+Hungary U19
+Motor City Cruise
+Seton Hall Pirates
+ZKK Brod Na Savi
+Xinjiang Magic Deer
+Okapi Aalst
+Uruguay
+KKK Mosir Krosno
+Kobrat Lapua
+BC Vienna
+Basket Brno U23
+VfL Astrostars Bochum
+Kk Promo Donji Vakuf
+Slavoj BK Litomerice
+Indiana Crimson Hawk
+Santo Andre/Apaba
+Camberwell Dragons
+Argentina
+Elitzur Holon
+Dynamo Kursk
+Decka Pelplin
+Arizona Wildcats
+PAOK BC
+Real Betis
+Bbc Croonen Lommel
+Basket Lattes Montpellier
+Mark Basket
+Helios Domzale
+Chanson V-Magic
+Nunawading Spectres
+Diablos de Miranda
+Club Malvin
+Nigeria
+Northern Kentucky Norse
+Penrith Panthers
+Goyang Carrot Jumpers
+Hatay BSB
+Aquila Basket Trento
+Talos Ruvo Di Puglia
+Cozum Ankara Koleji
+Northern State Wolves
+KCC Egis
+AP Monopoli
+Metropolitans 92
+Basket Zaragoza 2002
+Bristol Flyers
+New Mexico Lobos
+Omnia Basket Pavia
+Ringwood Hawks
+Missouri Tigers
+Red City Roar
+SCP Ruzomberok
+CBK Mersin Yenisehir Bld
+Marinos de Anzoategui
+Dandenong Rangers
+KK Kolubara LA 2003
+KK Siroki
+Eastern Suns
+CSM Alexandria
+Catz Lappeenranta
+Gold Coast Rollers
+Central Coast Crusaders
+Canberra Nationals
+Caprabo Lleida
+Great Britain
+Oklahoma City Thunder
+Angels Nordlingen
+Brisbane Bullets
+Auburn Tigers
+Fyllingen BK
+Fulgor Omegna Basket
+Panteras De Miranda
+Hills Hornets
