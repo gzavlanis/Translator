@@ -43,8 +43,8 @@ def competitions_translator(json_strings, target_language):
 def participants_translator(json_strings, target_language):
     translated_jsons = []
     for json_string in json_strings:
-        description = "I will send you a JSON string with sport Teams and athletes' names in English."
-        message_1 = f"I want you to send me their Phonetic translation in {target_language}. You are allowed to send me only a JSON string without anything else."
+        description = "I will send you a JSON string with sport teams and athletes' names in English."
+        message_1 = f"I want you to send me the phonetic transcription using the {target_language} alphabet. Your response will be in JSON format."
         message_2 = f"{json_string}"
         orders = [description, message_1, message_2]
         prompt = "\n".join(orders)
