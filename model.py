@@ -24,31 +24,33 @@ def regions_translator(json_strings, target_language):
         prompt = f'\n'.join([description, message])
         response = openai.Completion.create(engine = model_engine, prompt = prompt, max_tokens = tokens, n = 1, stop = None, temperature = temperature)
         translated_jsons.append(response.choices[0].text.strip())
-        print(translated_jsons)
+    print(translated_jsons)
     return translated_jsons
 
 def competitions_translator(json_strings, target_language):
     translated_jsons = []
     for json_string in json_strings:
         description = "I will send you a JSON string with sport competitions and championships in English."
-        message_1 = f"I want you to send me the phonetic transcription using the {target_language} alphabet. Your response will be in JSON format."
+        message_1 = f"I want you to send me the phonetic transcription using the {target_language} alphabet. Your response will be in JSON format, like the one I sent you."
         message_2 = f"{json_string}"
         orders = [description, message_1, message_2]
         prompt = "\n".join(orders)
         response = openai.Completion.create(engine = model_engine, prompt = prompt, max_tokens = tokens, n = 1, stop = None, temperature = temperature)
-        translated_jsons.append(response.choices[0].text.strip())
-        print(translated_jsons)
+        text = response.choices[0].text.strip()
+        print(text)
+        translated_jsons.append(text)
     return translated_jsons
 
 def participants_translator(json_strings, target_language):
     translated_jsons = []
     for json_string in json_strings:
-        description = "I will send you a JSON string with sport teams and athletes' names in English."
-        message_1 = f"I want you to send me the phonetic transcription using the {target_language} alphabet. Your response will be in JSON format."
+        description = "I will send you a JSON string with sport teams and athletes in English."
+        message_1 = f"I want you to send me the phonetic transcription using the {target_language} alphabet. Your response will be in JSON format, like the one I sent you."
         message_2 = f"{json_string}"
         orders = [description, message_1, message_2]
         prompt = "\n".join(orders)
         response = openai.Completion.create(engine = model_engine, prompt = prompt, max_tokens = tokens, n = 1, stop = None, temperature = temperature)
-        translated_jsons.append(response.choices[0].text.strip())
-        print(translated_jsons)
+        text = response.choices[0].text.strip()
+        print(text)
+        translated_jsons.append(text)
     return translated_jsons

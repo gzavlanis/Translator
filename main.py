@@ -4,6 +4,7 @@ from imports import importRegions, importCompetitions, importParticipants
 from exports import generator
 from model import regions_translator, competitions_translator, participants_translator
 
+
 """ Import CSV files """
 # regions = importRegions("data/regions.csv")
 
