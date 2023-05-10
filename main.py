@@ -1,4 +1,4 @@
-# import psycopg2
+import psycopg2
 from config import config
 from imports import importRegions, importCompetitions, importParticipants
 from exports import generator

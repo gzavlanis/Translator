@@ -12,7 +12,7 @@ def converter(data_list):
         except Exception:
             dictionary = dict() # empty fields for wrong data
             pass
-        print(dictionary)
+        # print(dictionary)
         frames.append(pd.json_normalize(dictionary)) # convert jsons to dataframes
     df = pd.DataFrame(np.column_stack((frame.values for frame in frames))) # merge to one dataframe
     return df.transpose()
