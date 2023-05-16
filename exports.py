@@ -14,7 +14,7 @@ def converter(data_list):
             pass
         # print(dictionary)
         frames.append(pd.json_normalize(dictionary)) # convert jsons to dataframes
-    df = pd.DataFrame(np.column_stack((frame.values for frame in frames))) # merge to one dataframe
+    df = pd.DataFrame(np.column_stack([frame.values for frame in frames])) # merge to one dataframe
     return df.transpose()
 
 def generator(data1_list, data2_list, data3_list, filename):
